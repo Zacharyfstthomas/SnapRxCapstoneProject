@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SnapRx - Applied Machine Learning for Prescription Medicine Identification</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="icon" href="assets/logo-small.jpg">
+<style>
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif
+}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("assets/logo3.jpg");
+    min-height: 100%;
+}
+.w3-bar .w3-button {
+    padding: 16px;
+}
+.images {
+    margin: 0 auto;
+}
+.images img {
+    margin-right: 30px;
+    border-radius: 10px;
+}
+#video{
+    text-align:center
+}
+ol.center, ul.center {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 800px;
+    padding: 0;
+}
+ol.center li, ul.center li {
+    text-align: left;
+}
+</style>
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card" id="myNavbar">
+    <a href="#home" class="w3-bar-item w3-button w3-wide">SnapRx</a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button"><i class='fa fa-lightbulb-o'></i> ABOUT</a>
+      <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> DEMO</a>
+      <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
+      <a href="https://github.com/SCCapstone/the-localhosts" class="w3-bar-item w3-button"><i class="fa fa-github"></i> GITHUB</a>
+      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACT</a>
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Header with full-height image -->
+<header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-left w3-text-white" style="padding:48px">
+    <span class="w3-jumbo w3-hide-small">SnapRx</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">SnapRx</span><br>
+    <span class="w3-large">Applied Machine Learning for Prescription Medicine Identification</span>
+    <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn more</a></p>
+  </div> 
+  
+</header>
+
+<!-- About Section -->
+<div class="w3-container w3-light-grey" style="padding:128px 16px" id="about">
+  <h3 class="w3-center">About SnapRx</h3>
+  <p class="w3-center w3-large">SnapRx is an Android application used for identifying prescription medications based on physical descriptions, images, and simple text queries.
+    SnapRx utilizes a computer vision classification model trained on 80,000+ pill images to classify users' uploaded pill images.
+    The app searches a database of tens of thousands of prescription medications to provide our users quick access to prescription data, physical descriptions, manufacturing information, and pricing data when available.
+    With SnapRx, you can quickly and accurately identify an unknown medication and gather relevant data on the corresponding prescription records.
+  </p>
+</div>
+
+
+<!-- Work Section -->
+<div class="w3-container w3-grey" style="padding:128px 16px" id="work">
+  <h2 class="w3-center">App Features</h2>
+  <p class="w3-center w3-large">Some of SnapRx's primary features are shown here, including the pill search, classify pill by image, and classify pill by physical description services. Users can also save medications to their profile for quick reference.</p>
+
+  <table class="images">
+    <tr class="images2"> 
+        <td><img src="assets/saved-meds.jpg" alt="Saved Medicine Page" height="200" width="125" id="p1" onclick="onClick(this)"> </td>
+        <td><img src="assets/search-meds.jpg" alt="Search Medicine Page" height="200" width="125" id="p2" onclick="onClick(this)"> </td>
+        <td><img src="assets/med-info.jpg" alt="Medication Details" height="500" width="250" id="p3" onclick="onClick(this)"> </td>
+        <td><img src="assets/scan-med.jpg" alt="Scan Medicine" height="200" width="125" id="p4" onclick="onClick(this)"> </td>
+        <td><img src="assets/scan-med-res.jpg" alt="Scan Medicine Results" height="200" width="125" id="p5" onclick="onClick(this)"> </td>
+        <td><img src="assets/describe-med.jpg" alt="Search by Attributes " height="200" width="125" id="p6" onclick="onClick(this)"> </td>
+    </tr>
+  </table>
+  <br/>
+  <h2 class="w3-center">(Placeholder) SnapRx Demo</h2>
+
+<div id="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPDpQSZNOaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+</div>
+
+<!-- Modal for full size images on click-->
+<div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
+  <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
+  <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+    <img id="img01" class="w3-image">
+    <p id="caption" class="w3-opacity w3-large"></p>
+  </div>
+</div>
+
+<!-- How and Why Section -->
+<div class="w3-container w3-padding-64 .w3-light-grey">
+    <section>
+        <h2 class="w3-center">Why SnapRx?</h2>
+        <p class="w3-center w3-large">SnapRx is the only pill identification offering computer-vision aided search.
+          The app provides detailed medication information on all 80,000+ medications in our database through a user-friendly interface.
+          SnapRx is a valuable tool for anyone who wants to easily and confidently identify a prescription medication and gather pertinent medical details.</p>
+    </section>
+    <br/>
+    <section>
+        <h2 class="w3-center">Getting started: How to use SnapRx</h2>
+        <ol class="center">
+            <li>Install and launch the app</li>
+            <ul class="center">
+                <li>Download and install the SnapRx app on your Android device from the Google Play Store. Launch the app.</li>
+            </ul>
+            <br/>
+
+            <li>(Option 1) Classify medication by image</li>
+            <ul class="center">
+                <li>Use your device's camera app to capture an image of the prescription pill you want to identify. Make sure the pill is well-lit and in focus.</li>
+                <li>Navigate to the "Scan Med" page and follow the on-screen instructions to upload your image for classification.</li>
+            </ul>
+            <br/>
+
+            <li>(Option 2) Classify medication by physical description</li>
+            <ul class="center">
+                <li>Navigate to the "Describe Med" page.</li>
+                <li>Enter the color(s), shape and imprints on the front and back of medication. Your query will be checked against our database of 80,000+ medications.</li>
+            </ul>
+            <br/>
+
+            <li>(Option 3) Search medications by text query</li>
+            <ul class="center">
+                <li>Navigate to the "Search" page.</li>
+                <li>Enter any text query. Your query will be matched against our records.</li>
+            </ul>
+            <br/>
+
+            <li>Review medication details</li>
+            <ul class="center">
+                <li>Once the pill is identified, the app will display details on the predicted medication.</li>
+                <li>Review the medication information, including prescription and manufacturing details, a physical description, and pricing data.</li>
+            </ul>
+            <br/>
+
+            <li>Save and manage medications</li>
+            <ul class="center">
+                <li>You can save any medication to your profile for quick future reference or delete saved medications using the icons displayed on the medication details page.</li>
+            </ul>
+        </ol>
+        </section>
+</div>
+
+<!-- Team Section -->
+<div class="w3-container w3-grey" style="padding:128px 16px" id="team">
+    <h3 class="w3-center">The SnapRx Team</h3>
+    <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
+      <div class="w3-col l3 m6 w3-margin-bottom">
+        <div class="w3-card">
+          <img src="assets/andrew.jpg" alt="John" style="width:100%">
+          <div class="w3-container">
+            <h3>Andrew Eldridge</h3>
+            <p class="w3-opacity"> Email: eldridgedev@gmail.com</p>
+            <p>Senior in Computer Science at USC</p>
+            <p><button class="w3-button w3-light-grey w3-block" onclick="window.location.href='https://www.linkedin.com/in/andrew-eldridge-338270165/';"><i class="fa fa-linkedin-square"></i> Linkedin</button></p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-col l3 m6 w3-margin-bottom">
+        <div class="w3-card">
+          <img src="assets/linh.jpg" alt="Jane" style="width:100%">
+          <div class="w3-container">
+            <h3>Linh Nguyen</h3>
+            <p class="w3-opacity">Email: linhhng211@gmail.com</p>
+            <p>Senior in Computer Science at USC</p>
+            <p><button class="w3-button w3-light-grey w3-block" onclick="window.location.href='https://www.linkedin.com/in/linh-nguyen-987687206/';"><i class="fa fa-linkedin-square"></i> Linkedin</button></p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-col l3 m6 w3-margin-bottom">
+        <div class="w3-card">
+          <img src="assets/zach.jpg" alt="Mike" style="width:100%">
+          <div class="w3-container">
+            <h3> Zachary St. Thomas</h3>
+            <p class="w3-opacity">Email: zacharyfstthomas@gmail.com</p>
+            <p>Senior in Computer Science at USC</p>
+            <p><button class="w3-button w3-light-grey w3-block" onclick="window.location.href='https://www.linkedin.com/in/zachary-st-thomas-888198173/';"><i class="fa fa-linkedin-square"></i> Linkedin</button></p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-col l3 m6 w3-margin-bottom">
+        <div class="w3-card">
+          <img src="assets/manish.jpg" alt="Dan" style="width:100%">
+          <div class="w3-container">
+            <h3>Manish Chaudhary</h3>
+            <p class="w3-opacity">Email: manishchaudhary408@gmail.com</p>
+            <p>Senior in Computer Science at USC</p>
+            <p><button class="w3-button w3-light-grey w3-block" onclick="window.location.href='https://www.linkedin.com/in/manish-chaudhary-51384a1a2/';"><i class="fa fa-linkedin-square"></i> Linkedin</button></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- Contact Section -->
+<div class="w3-container .w3-light-grey" style="padding:128px 16px" id="contact">
+  <h3 class="w3-center">Contact us</h3>
+  <p class="w3-center w3-large">Got any questions? Send us a message:</p>
+  <div style="margin-top:48px">
+    <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> Columbia, SC</p>
+    <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: noreply.snaprx@gmail.com</p>
+    <br>
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-border" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-border" type="text" placeholder="Email" required name="Email"></p>
+      <p><input class="w3-input w3-border" type="text" placeholder="Subject" required name="Subject"></p>
+      <p><input class="w3-input w3-border" type="text" placeholder="Message" required name="Message"></p>
+      <p>
+        <button class="w3-button w3-black" type="submit">
+          <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        </button>
+      </p>
+    </form>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64">
+  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+
+  <p>Copyright © 2023 All rights reserved</p>
+</footer>
+ 
+<script>
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+// Slide Images Bar
+function slideRight() {
+var x=document.getElementById('p5').src;
+var y =document.getElementById('p5').alt;
+//document.getElementById('p9').src=document.getElementById('p8').src;
+//document.getElementById('p9').alt=document.getElementById('p8').alt;
+//document.getElementById('p8').src=document.getElementById('p7').src;
+//document.getElementById('p8').alt=document.getElementById('p7').alt;
+//document.getElementById('p7').src=document.getElementById('p6').src;
+//document.getElementById('p7').alt=document.getElementById('p6').alt;
+//document.getElementById('p6').src=document.getElementById('p5').src;
+//document.getElementById('p6').alt=document.getElementById('p5').alt;
+document.getElementById('p5').src=document.getElementById('p4').src;
+document.getElementById('p5').alt=document.getElementById('p4').alt;
+document.getElementById('p4').src=document.getElementById('p3').src;
+document.getElementById('p4').alt=document.getElementById('p3').alt;
+document.getElementById('p3').src=document.getElementById('p2').src;
+document.getElementById('p3').alt=document.getElementById('p2').alt;
+document.getElementById('p2').src=document.getElementById('p1').src;
+document.getElementById('p2').alt=document.getElementById('p1').alt;
+document.getElementById('p1').src=x;
+document.getElementById('p1').alt=y
+}
+var TimerOn = true;
+function slideAuto() {
+  if(TimerOn) {
+    slideRight();
+    setTimeout(slideAuto, 2500)
+  }
+}
+setTimeout(slideAuto, 2500);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,4370 @@
+[
+ {
+   "name": "Olmesartan Medoxomil-hctz",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Entecavir",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Olmesartan Medoxomil",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Entacapone",
+   "price": "$44.79 "
+ },
+ {
+   "name": "Zytiga",
+   "price": "$169.99 "
+ },
+ {
+   "name": "Olanzapine",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Enskyce",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Zyloprim",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Ofloxacin",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Enoxaparin Sodium",
+   "price": "$33.79 "
+ },
+ {
+   "name": "Nystatin-triamcinolone",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Engerix-b",
+   "price": "$54.79 "
+ },
+ {
+   "name": "Zumandimine",
+   "price": "$52.79 "
+ },
+ {
+   "name": "Nystatin",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Endometrin",
+   "price": "$285.12 "
+ },
+ {
+   "name": "Zovirax",
+   "price": "$19.79 "
+ },
+ {
+   "name": "Nuvigil",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Enalapril-hydrochlorothiazide",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Zonisamide",
+   "price": "$22.99 "
+ },
+ {
+   "name": "Np Thyroid",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Enalapril Maleate",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Zonegran",
+   "price": "$22.99 "
+ },
+ {
+   "name": "Emtricitabine-tenofovir Df",
+   "price": "$43.99 "
+ },
+ {
+   "name": "Zolpidem Tartrate Er",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Novolog Mix 70/30 Flexpen",
+   "price": "$277.37 "
+ },
+ {
+   "name": "Emgality (300 Mg Dose)",
+   "price": "$1,625.79 "
+ },
+ {
+   "name": "Zolpidem Tartrate",
+   "price": "$249.95 "
+ },
+ {
+   "name": "Novolog Mix 70/30",
+   "price": "$148.93 "
+ },
+ {
+   "name": "Emgality",
+   "price": "$650.79 "
+ },
+ {
+   "name": "Zoloft",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Novolog Flexpen",
+   "price": "$277.37 "
+ },
+ {
+   "name": "Eliquis Dvt/pe Starter Pack",
+   "price": "$650.49 "
+ },
+ {
+   "name": "Zolmitriptan",
+   "price": "$31.12 "
+ },
+ {
+   "name": "Novolog",
+   "price": "$144.11 "
+ },
+ {
+   "name": "Eliquis",
+   "price": "$530.57 "
+ },
+ {
+   "name": "Zocor",
+   "price": "$11.00 "
+ },
+ {
+   "name": "Novolin R Flexpen",
+   "price": "$54.19 "
+ },
+ {
+   "name": "Elinest",
+   "price": "$12.79 "
+ },
+ {
+   "name": "Zithromax Z-pak",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Novolin R",
+   "price": "$29.01 "
+ },
+ {
+   "name": "Eletriptan Hydrobromide",
+   "price": "$32.99 "
+ },
+ {
+   "name": "Ziprasidone Hcl",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Novolin N",
+   "price": "$31.71 "
+ },
+ {
+   "name": "Efudex",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Zilxi",
+   "price": "$395.76 "
+ },
+ {
+   "name": "Novolin 70/30",
+   "price": "$31.21 "
+ },
+ {
+   "name": "Effient",
+   "price": "$21.79 "
+ },
+ {
+   "name": "Zetia",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Norvasc",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Effexor Xr",
+   "price": "$12.79 "
+ },
+ {
+   "name": "Zestril",
+   "price": "$9.14 "
+ },
+ {
+   "name": "Nortriptyline Hcl",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Effer-k",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Zestoretic",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Norpace",
+   "price": "$66.99 "
+ },
+ {
+   "name": "Econazole Nitrate",
+   "price": "$45.05 "
+ },
+ {
+   "name": "Zenpep",
+   "price": "$341.79 "
+ },
+ {
+   "name": "Norgestim-eth Estrad Triphasic",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Dymista",
+   "price": "$165.00 "
+ },
+ {
+   "name": "Norethindrone-eth Estradiol",
+   "price": "$15.06 "
+ },
+ {
+   "name": "Dutasteride",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Zaleplon",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Norethindrone Acetate",
+   "price": "$38.99 "
+ },
+ {
+   "name": "Durezol",
+   "price": "$52.99 "
+ },
+ {
+   "name": "Zafirlukast",
+   "price": "$94.79 "
+ },
+ {
+   "name": "Norethin Ace-eth Estrad-fe",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Duloxetine Hcl",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Yaz",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Nitroglycerin",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Dulera",
+   "price": "$379.99 "
+ },
+ {
+   "name": "Yasmin 28",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Nitrofurantoin Monohyd Macro",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Drysol",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Xultophy",
+   "price": "$1,175.01 "
+ },
+ {
+   "name": "Nitrofurantoin Macrocrystal",
+   "price": "$79.79 "
+ },
+ {
+   "name": "Droxidopa",
+   "price": "$94.99 "
+ },
+ {
+   "name": "Xopenex",
+   "price": "$55.79 "
+ },
+ {
+   "name": "Nisoldipine Er",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Dronabinol",
+   "price": "$32.79 "
+ },
+ {
+   "name": "Xarelto",
+   "price": "$612.99 "
+ },
+ {
+   "name": "Nikki",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Drisdol",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Xanax",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Nifedipine Er Osmotic Release",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Doxylamine-pyridoxine",
+   "price": "$255.79 "
+ },
+ {
+   "name": "Xalatan",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Nifedipine Er",
+   "price": "$35.05 "
+ },
+ {
+   "name": "Doxycycline Monohydrate",
+   "price": "$67.99 "
+ },
+ {
+   "name": "Westab Mini",
+   "price": "$43.99 "
+ },
+ {
+   "name": "Nifedipine",
+   "price": "$42.99 "
+ },
+ {
+   "name": "Doxycycline Hyclate",
+   "price": "$27.79 "
+ },
+ {
+   "name": "Wellbutrin Xl",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Niacin Er (antihyperlipidemic)",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Doxepin Hcl",
+   "price": "$45.99 "
+ },
+ {
+   "name": "Wellbutrin Sr",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Nexium",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Doxazosin Mesylate",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Warfarin Sodium",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Dovonex",
+   "price": "$65.99 "
+ },
+ {
+   "name": "Vytorin",
+   "price": "$80.79 "
+ },
+ {
+   "name": "Nevirapine",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Dotti",
+   "price": "$64.14 "
+ },
+ {
+   "name": "Voriconazole",
+   "price": "$58.79 "
+ },
+ {
+   "name": "Neurontin",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Dorzolamide Hcl-timolol Mal Pf",
+   "price": "$128.79 "
+ },
+ {
+   "name": "Voltaren",
+   "price": "$17.10 "
+ },
+ {
+   "name": "Nerivio",
+   "price": "$130.00 "
+ },
+ {
+   "name": "Dorzolamide Hcl-timolol Mal",
+   "price": "$25.00 "
+ },
+ {
+   "name": "Vivelle-dot",
+   "price": "$64.14 "
+ },
+ {
+   "name": "Neoral",
+   "price": "$75.04 "
+ },
+ {
+   "name": "Dorzolamide Hcl",
+   "price": "$31.99 "
+ },
+ {
+   "name": "Vitatrue",
+   "price": "$122.49 "
+ },
+ {
+   "name": "Neomycin-polymyxin-hc",
+   "price": "$65.12 "
+ },
+ {
+   "name": "Donepezil Hcl",
+   "price": "$7.79 "
+ },
+ {
+   "name": "Vitapearl",
+   "price": "$122.49 "
+ },
+ {
+   "name": "Neomycin-polymyxin-dexameth",
+   "price": "$24.99 "
+ },
+ {
+   "name": "Dofetilide",
+   "price": "$103.79 "
+ },
+ {
+   "name": "Vitamins Acd-fluoride",
+   "price": "$25.79 "
+ },
+ {
+   "name": "Neomycin-bacitracin Zn-polymyx",
+   "price": "$16.08 "
+ },
+ {
+   "name": "Divalproex Sodium Er",
+   "price": "$46.09 "
+ },
+ {
+   "name": "Vitamin D (ergocalciferol)",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Nebusal",
+   "price": "$27.02 "
+ },
+ {
+   "name": "Divalproex Sodium",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Vitamin B-6",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Nebivolol Hcl",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Disulfiram",
+   "price": "$72.99 "
+ },
+ {
+   "name": "Vitamedmd Redichew Rx",
+   "price": "$122.49 "
+ },
+ {
+   "name": "Nateglinide",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Disopyramide Phosphate",
+   "price": "$66.99 "
+ },
+ {
+   "name": "Viread",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Natazia",
+   "price": "$168.95 "
+ },
+ {
+   "name": "Diphenoxylate-atropine",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Victoza",
+   "price": "$706.90 "
+ },
+ {
+   "name": "Narcan",
+   "price": "$124.50 "
+ },
+ {
+   "name": "Diovan Hct",
+   "price": "$5.11 "
+ },
+ {
+   "name": "Vibramycin",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Naratriptan Hcl",
+   "price": "$50.99 "
+ },
+ {
+   "name": "Diovan",
+   "price": "$22.99 "
+ },
+ {
+   "name": "Viagra",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Naproxen Sodium",
+   "price": "$26.10 "
+ },
+ {
+   "name": "Dimethyl Fumarate",
+   "price": "$246.99 "
+ },
+ {
+   "name": "Naproxen",
+   "price": "$5.01 "
+ },
+ {
+   "name": "Diltiazem Hcl Er Coated Beads",
+   "price": "$216.12 "
+ },
+ {
+   "name": "Namenda",
+   "price": "$37.99 "
+ },
+ {
+   "name": "Diltiazem Hcl Er Beads",
+   "price": "$29.03 "
+ },
+ {
+   "name": "Naltrexone Hcl",
+   "price": "$31.79 "
+ },
+ {
+   "name": "Diltiazem Hcl Er",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Verapamil Hcl Er",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Naftifine Hcl",
+   "price": "$85.79 "
+ },
+ {
+   "name": "Diltiazem Hcl",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Verapamil Hcl",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Nadolol",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Dilt-xr",
+   "price": "$37.79 "
+ },
+ {
+   "name": "Ventolin Hfa",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Nabumetone",
+   "price": "$29.99 "
+ },
+ {
+   "name": "Dilantin Infatabs",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Venlafaxine Hcl Er",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Myrbetriq",
+   "price": "$509.79 "
+ },
+ {
+   "name": "Dilantin",
+   "price": "$48.99 "
+ },
+ {
+   "name": "Venlafaxine Hcl",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Myorisan",
+   "price": "$117.79 "
+ },
+ {
+   "name": "Digoxin",
+   "price": "$29.99 "
+ },
+ {
+   "name": "Vasotec",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Mycophenolate Sodium",
+   "price": "$100.79 "
+ },
+ {
+   "name": "Difluprednate",
+   "price": "$52.99 "
+ },
+ {
+   "name": "Vascepa",
+   "price": "$143.99 "
+ },
+ {
+   "name": "Mycophenolate Mofetil",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Diflucan",
+   "price": "$41.99 "
+ },
+ {
+   "name": "Varivax",
+   "price": "$157.99 "
+ },
+ {
+   "name": "Mupirocin Calcium",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Differin",
+   "price": "$46.99 "
+ },
+ {
+   "name": "Vardenafil Hcl",
+   "price": "$73.79 "
+ },
+ {
+   "name": "Mupirocin",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Diethylpropion Hcl Er",
+   "price": "$48.79 "
+ },
+ {
+   "name": "Vaniqa",
+   "price": "$132.79 "
+ },
+ {
+   "name": "Multi-vitamin/fluoride",
+   "price": "$25.02 "
+ },
+ {
+   "name": "Diethylpropion Hcl",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Vancomycin Hcl",
+   "price": "$130.99 "
+ },
+ {
+   "name": "Multi-vit/iron/fluoride",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Dicyclomine Hcl",
+   "price": "$26.79 "
+ },
+ {
+   "name": "Valtrex",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Mucinex D Max Strength",
+   "price": "$19.91 "
+ },
+ {
+   "name": "Dicloxacillin Sodium",
+   "price": "$50.99 "
+ },
+ {
+   "name": "Valsartan-hydrochlorothiazide",
+   "price": "$5.11 "
+ },
+ {
+   "name": "Mucinex D",
+   "price": "$22.38 "
+ },
+ {
+   "name": "Diclofenac-misoprostol",
+   "price": "$56.99 "
+ },
+ {
+   "name": "Valsartan",
+   "price": "$22.99 "
+ },
+ {
+   "name": "Moxifloxacin Hcl",
+   "price": "$19.10 "
+ },
+ {
+   "name": "Diclofenac Sodium Er",
+   "price": "$44.79 "
+ },
+ {
+   "name": "Valproic Acid",
+   "price": "$30.79 "
+ },
+ {
+   "name": "Motegrity",
+   "price": "$343.08 "
+ },
+ {
+   "name": "Diclofenac Sodium",
+   "price": "$21.79 "
+ },
+ {
+   "name": "Valium",
+   "price": "$12.02 "
+ },
+ {
+   "name": "Morphine Sulfate Er",
+   "price": "$20.79 "
+ },
+ {
+   "name": "Diazepam",
+   "price": "$12.02 "
+ },
+ {
+   "name": "Valganciclovir Hcl",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Montelukast Sodium",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Dextroamphetamine Sulfate Er",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Valacyclovir Hcl",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Mono-linyah",
+   "price": "$22.79 "
+ },
+ {
+   "name": "Dextroamphetamine Sulfate",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Vagifem",
+   "price": "$47.99 "
+ },
+ {
+   "name": "Mometasone Furoate",
+   "price": "$40.14 "
+ },
+ {
+   "name": "Dexmethylphenidate Hcl Er",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Ursodiol",
+   "price": "$56.99 "
+ },
+ {
+   "name": "Dexmethylphenidate Hcl",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Uroxatral",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Moexipril Hcl",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Dexlansoprazole",
+   "price": "$169.99 "
+ },
+ {
+   "name": "Uribel",
+   "price": "$65.07 "
+ },
+ {
+   "name": "Modafinil",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Dexilant",
+   "price": "$169.99 "
+ },
+ {
+   "name": "Urea",
+   "price": "$53.99 "
+ },
+ {
+   "name": "Mobic",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Dexcom G6 Transmitter",
+   "price": "$128.54 "
+ },
+ {
+   "name": "Ultram",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Misoprostol",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Dexcom G6 Sensor",
+   "price": "$309.75 "
+ },
+ {
+   "name": "Mirtazapine",
+   "price": "$31.99 "
+ },
+ {
+   "name": "Dexcom G6 Receiver",
+   "price": "$196.49 "
+ },
+ {
+   "name": "Minoxidil",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Dexamethasone Sodium Phosphate",
+   "price": "$36.99 "
+ },
+ {
+   "name": "Ubrelvy",
+   "price": "$793.22 "
+ },
+ {
+   "name": "Minocycline Hcl",
+   "price": "$5.14 "
+ },
+ {
+   "name": "Dexamethasone",
+   "price": "$26.99 "
+ },
+ {
+   "name": "Twinrix",
+   "price": "$114.99 "
+ },
+ {
+   "name": "Midodrine Hcl",
+   "price": "$17.79 "
+ },
+ {
+   "name": "Detrol La",
+   "price": "$46.79 "
+ },
+ {
+   "name": "Trusopt",
+   "price": "$31.99 "
+ },
+ {
+   "name": "Midazolam Hcl",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Detrol",
+   "price": "$59.99 "
+ },
+ {
+   "name": "Trulicity",
+   "price": "$1,052.10 "
+ },
+ {
+   "name": "Micardis",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Desvenlafaxine Succinate Er",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Trueplus Lancets 33g",
+   "price": "$1.29 "
+ },
+ {
+   "name": "Mexiletine Hcl",
+   "price": "$80.06 "
+ },
+ {
+   "name": "Desoximetasone",
+   "price": "$32.03 "
+ },
+ {
+   "name": "Trueplus Insulin Syringe",
+   "price": "$12.04 "
+ },
+ {
+   "name": "Metronidazole",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Desowen",
+   "price": "$111.99 "
+ },
+ {
+   "name": "True Metrix Meter",
+   "price": "$9.01 "
+ },
+ {
+   "name": "Metrogel",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Desonide",
+   "price": "$111.99 "
+ },
+ {
+   "name": "True Metrix Blood Glucose Test",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Metrocream",
+   "price": "$29.99 "
+ },
+ {
+   "name": "Desogestrel-ethinyl Estradiol",
+   "price": "$24.79 "
+ },
+ {
+   "name": "Trospium Chloride Er",
+   "price": "$295.99 "
+ },
+ {
+   "name": "Metoprolol-hydrochlorothiazide",
+   "price": "$42.79 "
+ },
+ {
+   "name": "Desmopressin Acetate Spray",
+   "price": "$166.12 "
+ },
+ {
+   "name": "Trospium Chloride",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Metoprolol Tartrate",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Desmopressin Acetate",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Tropicamide",
+   "price": "$26.79 "
+ },
+ {
+   "name": "Metoprolol Succinate Er",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Desloratadine",
+   "price": "$31.11 "
+ },
+ {
+   "name": "Trintellix",
+   "price": "$367.29 "
+ },
+ {
+   "name": "Metolazone",
+   "price": "$86.99 "
+ },
+ {
+   "name": "Desipramine Hcl",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Trimo-san",
+   "price": "$33.79 "
+ },
+ {
+   "name": "Metoclopramide Hcl",
+   "price": "$7.05 "
+ },
+ {
+   "name": "Trimethoprim",
+   "price": "$10.65 "
+ },
+ {
+   "name": "Methylprednisolone Acetate",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Depo-testosterone",
+   "price": "$64.99 "
+ },
+ {
+   "name": "Trijardy Xr",
+   "price": "$403.35 "
+ },
+ {
+   "name": "Methylprednisolone",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Depo-estradiol",
+   "price": "$139.53 "
+ },
+ {
+   "name": "Trihexyphenidyl Hcl",
+   "price": "$8.04 "
+ },
+ {
+   "name": "Methylphenidate Hcl Er (osm)",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Denta 5000 Plus",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Trifluoperazine Hcl",
+   "price": "$54.01 "
+ },
+ {
+   "name": "Methylphenidate Hcl Er (la)",
+   "price": "$75.99 "
+ },
+ {
+   "name": "Trifexis",
+   "price": "$119.69 "
+ },
+ {
+   "name": "Methylphenidate Hcl Er (cd)",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Deferasirox",
+   "price": "$108.79 "
+ },
+ {
+   "name": "Trientine Hcl",
+   "price": "$399.99 "
+ },
+ {
+   "name": "Methylphenidate Hcl Er",
+   "price": "$27.99 "
+ },
+ {
+   "name": "Daysee",
+   "price": "$15.79 "
+ },
+ {
+   "name": "Tridesilon",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Methylphenidate Hcl",
+   "price": "$74.99 "
+ },
+ {
+   "name": "Dasetta 7/7/7",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Tricor",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Methscopolamine Bromide",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Darifenacin Hydrobromide Er",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Triazolam",
+   "price": "$12.04 "
+ },
+ {
+   "name": "Methotrexate Sodium",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Dapsone",
+   "price": "$189.99 "
+ },
+ {
+   "name": "Triamterene-hctz",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Methocarbamol",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Dalfampridine Er",
+   "price": "$69.99 "
+ },
+ {
+   "name": "Triamcinolone Acetonide",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Methimazole",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Cytotec",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Tri-luma",
+   "price": "$247.79 "
+ },
+ {
+   "name": "Methenamine Mandelate",
+   "price": "$51.79 "
+ },
+ {
+   "name": "Cytomel",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Tri-lo-sprintec",
+   "price": "$19.06 "
+ },
+ {
+   "name": "Methadone Hcl",
+   "price": "$15.79 "
+ },
+ {
+   "name": "Cyproheptadine Hcl",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Metformin Hcl Er (osm)",
+   "price": "$83.79 "
+ },
+ {
+   "name": "Cymbalta",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Tretinoin",
+   "price": "$29.04 "
+ },
+ {
+   "name": "Metformin Hcl Er",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Cyclosporine Modified",
+   "price": "$75.04 "
+ },
+ {
+   "name": "Tresiba Flextouch",
+   "price": "$521.64 "
+ },
+ {
+   "name": "Metformin Hcl",
+   "price": "$9.14 "
+ },
+ {
+   "name": "Cyclopentolate Hcl",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Trazodone Hcl",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Metaxalone",
+   "price": "$30.14 "
+ },
+ {
+   "name": "Cyclobenzaprine Hcl",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Travoprost (bak Free)",
+   "price": "$146.99 "
+ },
+ {
+   "name": "Cyanocobalamin",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Transderm-scop",
+   "price": "$68.79 "
+ },
+ {
+   "name": "Mesalamine Er",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Cromolyn Sodium",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Tranexamic Acid",
+   "price": "$39.79 "
+ },
+ {
+   "name": "Mesalamine",
+   "price": "$299.99 "
+ },
+ {
+   "name": "Crestor",
+   "price": "$35.99 "
+ },
+ {
+   "name": "Trandolapril",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Mercaptopurine",
+   "price": "$150.09 "
+ },
+ {
+   "name": "Tramadol-acetaminophen",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Menostar",
+   "price": "$139.79 "
+ },
+ {
+   "name": "Cozaar",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Tramadol Hcl Er",
+   "price": "$5.13 "
+ },
+ {
+   "name": "Menopur",
+   "price": "$223.54 "
+ },
+ {
+   "name": "Cosopt",
+   "price": "$25.00 "
+ },
+ {
+   "name": "Tramadol Hcl",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Menactra",
+   "price": "$146.79 "
+ },
+ {
+   "name": "Coreg",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Tradjenta",
+   "price": "$290.94 "
+ },
+ {
+   "name": "Memantine Hcl Er",
+   "price": "$101.99 "
+ },
+ {
+   "name": "Contour Next Test",
+   "price": "$19.79 "
+ },
+ {
+   "name": "Torsemide",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Memantine Hcl",
+   "price": "$37.99 "
+ },
+ {
+   "name": "Contour Monitor",
+   "price": "$0.00 "
+ },
+ {
+   "name": "Toprol Xl",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Concerta",
+   "price": "$27.99 "
+ },
+ {
+   "name": "Topiramate",
+   "price": "$20.99 "
+ },
+ {
+   "name": "Meloxicam",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Compact Space Chamber",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Tolterodine Tartrate Er",
+   "price": "$46.79 "
+ },
+ {
+   "name": "Megestrol Acetate",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Tolterodine Tartrate",
+   "price": "$59.99 "
+ },
+ {
+   "name": "Medroxyprogesterone Acetate",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Combivent Respimat",
+   "price": "$436.73 "
+ },
+ {
+   "name": "Tobramycin-dexamethasone",
+   "price": "$23.79 "
+ },
+ {
+   "name": "Medrol",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Combipatch",
+   "price": "$230.79 "
+ },
+ {
+   "name": "Tobramycin",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Meclizine Hcl",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Combigan",
+   "price": "$107.39 "
+ },
+ {
+   "name": "Tizanidine Hcl",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Maxzide-25",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Colesevelam Hcl",
+   "price": "$139.99 "
+ },
+ {
+   "name": "Tirosint",
+   "price": "$162.99 "
+ },
+ {
+   "name": "Maxzide",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Colcrys",
+   "price": "$28.99 "
+ },
+ {
+   "name": "Timolol Maleate Pf",
+   "price": "$420.99 "
+ },
+ {
+   "name": "Maxitrol",
+   "price": "$24.99 "
+ },
+ {
+   "name": "Colchicine-probenecid",
+   "price": "$21.79 "
+ },
+ {
+   "name": "Timolol Maleate",
+   "price": "$7.00 "
+ },
+ {
+   "name": "Maxalt-mlt",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Colchicine",
+   "price": "$28.99 "
+ },
+ {
+   "name": "Maxalt",
+   "price": "$22.79 "
+ },
+ {
+   "name": "Clozapine",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Theophylline Er",
+   "price": "$30.99 "
+ },
+ {
+   "name": "Matzim La",
+   "price": "$119.79 "
+ },
+ {
+   "name": "Clotrimazole-betamethasone",
+   "price": "$15.79 "
+ },
+ {
+   "name": "Theophylline",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Malarone",
+   "price": "$101.79 "
+ },
+ {
+   "name": "Clotrimazole",
+   "price": "$54.79 "
+ },
+ {
+   "name": "Tetracycline Hcl",
+   "price": "$37.79 "
+ },
+ {
+   "name": "Magnesium Citrate",
+   "price": "$2.39 "
+ },
+ {
+   "name": "Clorazepate Dipotassium",
+   "price": "$33.99 "
+ },
+ {
+   "name": "Tetrabenazine",
+   "price": "$188.99 "
+ },
+ {
+   "name": "M-m-r Ii",
+   "price": "$99.99 "
+ },
+ {
+   "name": "Clopidogrel Bisulfate",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Testosterone Cypionate",
+   "price": "$64.99 "
+ },
+ {
+   "name": "Lyrica",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Clonidine Hcl",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Testosterone",
+   "price": "$56.99 "
+ },
+ {
+   "name": "Lunesta",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Clonidine",
+   "price": "$64.11 "
+ },
+ {
+   "name": "Tessalon Perles",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Lumigan",
+   "price": "$82.99 "
+ },
+ {
+   "name": "Clonazepam",
+   "price": "$7.79 "
+ },
+ {
+   "name": "Terconazole",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Loxapine Succinate",
+   "price": "$42.79 "
+ },
+ {
+   "name": "Clomipramine Hcl",
+   "price": "$99.79 "
+ },
+ {
+   "name": "Terbutaline Sulfate",
+   "price": "$65.79 "
+ },
+ {
+   "name": "Lovaza",
+   "price": "$28.99 "
+ },
+ {
+   "name": "Clomiphene Citrate",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Terbinafine Hcl",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Lovastatin",
+   "price": "$11.00 "
+ },
+ {
+   "name": "Terazosin Hcl",
+   "price": "$18.79 "
+ },
+ {
+   "name": "Loteprednol Etabonate",
+   "price": "$247.79 "
+ },
+ {
+   "name": "Clocortolone Pivalate",
+   "price": "$225.00 "
+ },
+ {
+   "name": "Tenormin",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Losartan Potassium-hctz",
+   "price": "$21.79 "
+ },
+ {
+   "name": "Clobetasol Propionate E",
+   "price": "$24.99 "
+ },
+ {
+   "name": "Tenofovir Disoproxil Fumarate",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Losartan Potassium",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Clobetasol Propionate",
+   "price": "$12.79 "
+ },
+ {
+   "name": "Tenivac",
+   "price": "$48.99 "
+ },
+ {
+   "name": "Lorazepam",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Clobazam",
+   "price": "$84.99 "
+ },
+ {
+   "name": "Temozolomide",
+   "price": "$77.79 "
+ },
+ {
+   "name": "Lopressor",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Clindamycin Phosphate",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Temazepam",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Loperamide Hcl",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Clindamycin Phos-benzoyl Perox",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Lomaira",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Clindamycin Palmitate Hcl",
+   "price": "$38.79 "
+ },
+ {
+   "name": "Telmisartan-hctz",
+   "price": "$84.99 "
+ },
+ {
+   "name": "Lo Loestrin Fe",
+   "price": "$146.50 "
+ },
+ {
+   "name": "Clindamycin Hcl",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Telmisartan-amlodipine",
+   "price": "$54.79 "
+ },
+ {
+   "name": "Livalo",
+   "price": "$245.25 "
+ },
+ {
+   "name": "Climara Pro",
+   "price": "$192.43 "
+ },
+ {
+   "name": "Telmisartan",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Lithium Carbonate Er",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Climara",
+   "price": "$139.79 "
+ },
+ {
+   "name": "Tazarotene",
+   "price": "$74.99 "
+ },
+ {
+   "name": "Lithium Carbonate",
+   "price": "$13.79 "
+ },
+ {
+   "name": "Cleocin",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Tamsulosin Hcl",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Lisinopril-hydrochlorothiazide",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Clenpiq",
+   "price": "$118.46 "
+ },
+ {
+   "name": "Tamoxifen Citrate",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Lisinopril",
+   "price": "$9.14 "
+ },
+ {
+   "name": "Clemastine Fumarate",
+   "price": "$26.85 "
+ },
+ {
+   "name": "Tamiflu",
+   "price": "$61.79 "
+ },
+ {
+   "name": "Lipofen",
+   "price": "$325.19 "
+ },
+ {
+   "name": "Tadalafil (pah)",
+   "price": "$67.09 "
+ },
+ {
+   "name": "Lipitor",
+   "price": "$16.00 "
+ },
+ {
+   "name": "Clavamox",
+   "price": "$9.65 "
+ },
+ {
+   "name": "Tadalafil",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Liothyronine Sodium",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Tacrolimus",
+   "price": "$131.99 "
+ },
+ {
+   "name": "Linzess",
+   "price": "$488.67 "
+ },
+ {
+   "name": "Claritin-d 24 Hour",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Syprine",
+   "price": "$399.99 "
+ },
+ {
+   "name": "Linezolid",
+   "price": "$40.99 "
+ },
+ {
+   "name": "Clarithromycin",
+   "price": "$24.99 "
+ },
+ {
+   "name": "Synthroid",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Lidocaine-hydrocortisone Ace",
+   "price": "$95.79 "
+ },
+ {
+   "name": "Citranatal Harmony",
+   "price": "$126.86 "
+ },
+ {
+   "name": "Synjardy Xr",
+   "price": "$403.35 "
+ },
+ {
+   "name": "Lidocaine-hydrocort (perianal)",
+   "price": "$56.99 "
+ },
+ {
+   "name": "Citranatal Dha",
+   "price": "$120.65 "
+ },
+ {
+   "name": "Synjardy",
+   "price": "$403.35 "
+ },
+ {
+   "name": "Lidocaine Viscous Hcl",
+   "price": "$8.79 "
+ },
+ {
+   "name": "Citranatal Bloom",
+   "price": "$130.37 "
+ },
+ {
+   "name": "Symjepi",
+   "price": "$249.00 "
+ },
+ {
+   "name": "Lidocaine Hcl",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Citranatal B-calm",
+   "price": "$109.10 "
+ },
+ {
+   "name": "Symbicort",
+   "price": "$333.79 "
+ },
+ {
+   "name": "Lidocaine (anorectal)",
+   "price": "$8.79 "
+ },
+ {
+   "name": "Citranatal Assure",
+   "price": "$126.45 "
+ },
+ {
+   "name": "Sutab",
+   "price": "$95.28 "
+ },
+ {
+   "name": "Lidocaine",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Citranatal 90 Dha",
+   "price": "$130.98 "
+ },
+ {
+   "name": "Suprep Bowel Prep Kit",
+   "price": "$89.18 "
+ },
+ {
+   "name": "Lexapro",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Citalopram Hydrobromide",
+   "price": "$9.07 "
+ },
+ {
+   "name": "Sumatriptan-naproxen Sodium",
+   "price": "$147.79 "
+ },
+ {
+   "name": "Levoxyl",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Ciprofloxacin-dexamethasone",
+   "price": "$221.79 "
+ },
+ {
+   "name": "Sumatriptan Succinate",
+   "price": "$14.14 "
+ },
+ {
+   "name": "Levothyroxine Sodium",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Ciprofloxacin Hcl",
+   "price": "$19.79 "
+ },
+ {
+   "name": "Sulindac",
+   "price": "$22.79 "
+ },
+ {
+   "name": "Levonorgest-eth Estrad 91-day",
+   "price": "$50.99 "
+ },
+ {
+   "name": "Cinacalcet Hcl",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Sulfasalazine",
+   "price": "$24.79 "
+ },
+ {
+   "name": "Levofloxacin",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Cimetidine",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Sulfamethoxazole-trimethoprim",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Levocetirizine Dihydrochloride",
+   "price": "$52.79 "
+ },
+ {
+   "name": "Cilostazol",
+   "price": "$7.79 "
+ },
+ {
+   "name": "Sulfacetamide Sodium-sulfur",
+   "price": "$79.99 "
+ },
+ {
+   "name": "Levocarnitine",
+   "price": "$22.79 "
+ },
+ {
+   "name": "Ciclopirox Olamine",
+   "price": "$39.79 "
+ },
+ {
+   "name": "Sulfacetamide Sodium (cleans)",
+   "price": "$140.99 "
+ },
+ {
+   "name": "Levetiracetam Er",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Ciclopirox",
+   "price": "$44.09 "
+ },
+ {
+   "name": "Sulfacetamide Sodium (acne)",
+   "price": "$58.79 "
+ },
+ {
+   "name": "Levetiracetam",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Cialis",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Sulfacetamide Sodium",
+   "price": "$32.99 "
+ },
+ {
+   "name": "Levemir Flextouch",
+   "price": "$386.84 "
+ },
+ {
+   "name": "Cholestyramine Light",
+   "price": "$88.79 "
+ },
+ {
+   "name": "Sucralfate",
+   "price": "$118.99 "
+ },
+ {
+   "name": "Levemir",
+   "price": "$257.69 "
+ },
+ {
+   "name": "Cholestyramine",
+   "price": "$96.99 "
+ },
+ {
+   "name": "Subvenite",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Levalbuterol Tartrate",
+   "price": "$68.79 "
+ },
+ {
+   "name": "Chlorzoxazone",
+   "price": "$19.79 "
+ },
+ {
+   "name": "Stromectol",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Levalbuterol Hcl",
+   "price": "$55.79 "
+ },
+ {
+   "name": "Chlorthalidone",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Striverdi Respimat",
+   "price": "$193.42 "
+ },
+ {
+   "name": "Letrozole",
+   "price": "$23.79 "
+ },
+ {
+   "name": "Chlorpromazine Hcl",
+   "price": "$103.99 "
+ },
+ {
+   "name": "Strattera",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Leflunomide",
+   "price": "$53.79 "
+ },
+ {
+   "name": "Chlorhexidine Gluconate",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Stiolto Respimat",
+   "price": "$362.91 "
+ },
+ {
+   "name": "Latisse",
+   "price": "$115.99 "
+ },
+ {
+   "name": "Chlordiazepoxide-clidinium",
+   "price": "$105.79 "
+ },
+ {
+   "name": "Steglatro",
+   "price": "$393.79 "
+ },
+ {
+   "name": "Latanoprost",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Chlordiazepoxide Hcl",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Ssd",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Lasix",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Cevimeline Hcl",
+   "price": "$170.99 "
+ },
+ {
+   "name": "Spironolactone-hctz",
+   "price": "$46.99 "
+ },
+ {
+   "name": "Larin Fe 1.5/30",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Spironolactone",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Larin 24 Fe",
+   "price": "$66.99 "
+ },
+ {
+   "name": "Cequa",
+   "price": "$556.68 "
+ },
+ {
+   "name": "Spiriva Respimat",
+   "price": "$395.71 "
+ },
+ {
+   "name": "Larin 1/20",
+   "price": "$18.79 "
+ },
+ {
+   "name": "Cephalexin",
+   "price": "$7.07 "
+ },
+ {
+   "name": "Spiriva Handihaler",
+   "price": "$395.71 "
+ },
+ {
+   "name": "Lantus Solostar",
+   "price": "$479.99 "
+ },
+ {
+   "name": "Centany",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Sotalol Hcl",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Lantus",
+   "price": "$316.79 "
+ },
+ {
+   "name": "Celexa",
+   "price": "$9.07 "
+ },
+ {
+   "name": "Soma",
+   "price": "$54.99 "
+ },
+ {
+   "name": "Lanthanum Carbonate",
+   "price": "$67.13 "
+ },
+ {
+   "name": "Celecoxib",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Solifenacin Succinate",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Lansoprazole",
+   "price": "$37.79 "
+ },
+ {
+   "name": "Celebrex",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Lamotrigine Er",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Cefuroxime Axetil",
+   "price": "$24.10 "
+ },
+ {
+   "name": "Sodium Fluoride 5000 Ppm",
+   "price": "$18.05 "
+ },
+ {
+   "name": "Lamotrigine",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Ceftriaxone Sodium",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Sodium Chloride (hypertonic)",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Lamivudine",
+   "price": "$119.79 "
+ },
+ {
+   "name": "Cefpodoxime Proxetil",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Sodium Chloride",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Lamictal Xr",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Cefixime",
+   "price": "$23.07 "
+ },
+ {
+   "name": "Sod Citrate-citric Acid",
+   "price": "$12.01 "
+ },
+ {
+   "name": "Lamictal",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Cefdinir",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Sm Nicotine",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Lactated Ringers",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Cefadroxil",
+   "price": "$12.79 "
+ },
+ {
+   "name": "Sm Miconazole 7",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Labetalol Hcl",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Carvedilol Phosphate Er",
+   "price": "$190.07 "
+ },
+ {
+   "name": "Sm Clearlax",
+   "price": "$4.69 "
+ },
+ {
+   "name": "L-methylfolate",
+   "price": "$119.79 "
+ },
+ {
+   "name": "Carvedilol",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Sirolimus",
+   "price": "$182.79 "
+ },
+ {
+   "name": "Kls Allerclear D-24hr",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Cartia Xt",
+   "price": "$32.79 "
+ },
+ {
+   "name": "Singulair",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Kls Allerclear D-12hr",
+   "price": "$26.79 "
+ },
+ {
+   "name": "Simvastatin",
+   "price": "$11.00 "
+ },
+ {
+   "name": "Kls Aller-tec D",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Kls Aller-tec Childrens",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Simparica Trio",
+   "price": "$145.86 "
+ },
+ {
+   "name": "Kls Aller-tec",
+   "price": "$1.15 "
+ },
+ {
+   "name": "Carisoprodol",
+   "price": "$54.99 "
+ },
+ {
+   "name": "Simparica",
+   "price": "$97.73 "
+ },
+ {
+   "name": "Kls Aller-fex",
+   "price": "$2.00 "
+ },
+ {
+   "name": "Carbinoxamine Maleate",
+   "price": "$20.99 "
+ },
+ {
+   "name": "Silodosin",
+   "price": "$47.99 "
+ },
+ {
+   "name": "Klonopin",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Carbidopa-levodopa Er",
+   "price": "$45.79 "
+ },
+ {
+   "name": "Sildenafil Citrate",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Klisyri",
+   "price": "$557.13 "
+ },
+ {
+   "name": "Carbidopa-levodopa",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Shingrix",
+   "price": "$164.99 "
+ },
+ {
+   "name": "Ketotifen Fumarate",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Carbidopa",
+   "price": "$164.79 "
+ },
+ {
+   "name": "Sf 5000 Plus",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Ketorolac Tromethamine",
+   "price": "$20.79 "
+ },
+ {
+   "name": "Carbamazepine Er",
+   "price": "$57.99 "
+ },
+ {
+   "name": "Seysara",
+   "price": "$576.94 "
+ },
+ {
+   "name": "Ketoconazole",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Carbamazepine",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Sevelamer Carbonate",
+   "price": "$90.79 "
+ },
+ {
+   "name": "Keppra Xr",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Carafate",
+   "price": "$118.99 "
+ },
+ {
+   "name": "Setlakin",
+   "price": "$15.79 "
+ },
+ {
+   "name": "Keppra",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Captopril",
+   "price": "$17.79 "
+ },
+ {
+   "name": "Sertraline Hcl",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Kelnor 1/35",
+   "price": "$57.99 "
+ },
+ {
+   "name": "Capsaicin",
+   "price": "$2.59 "
+ },
+ {
+   "name": "Seroquel Xr",
+   "price": "$29.79 "
+ },
+ {
+   "name": "Capecitabine",
+   "price": "$68.99 "
+ },
+ {
+   "name": "Seroquel",
+   "price": "$8.79 "
+ },
+ {
+   "name": "Candesartan Cilexetil-hctz",
+   "price": "$107.99 "
+ },
+ {
+   "name": "Candesartan Cilexetil",
+   "price": "$65.79 "
+ },
+ {
+   "name": "Jentadueto Xr",
+   "price": "$145.76 "
+ },
+ {
+   "name": "Calcium Carb-cholecalciferol",
+   "price": "$3.07 "
+ },
+ {
+   "name": "Semglee (yfgn)",
+   "price": "$75.78 "
+ },
+ {
+   "name": "Jentadueto",
+   "price": "$290.94 "
+ },
+ {
+   "name": "Calcium Acetate (phos Binder)",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Selenium Sulfide",
+   "price": "$38.99 "
+ },
+ {
+   "name": "Jardiance",
+   "price": "$403.35 "
+ },
+ {
+   "name": "Calcitriol",
+   "price": "$27.99 "
+ },
+ {
+   "name": "Selegiline Hcl",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Januvia",
+   "price": "$618.79 "
+ },
+ {
+   "name": "Calcipotriene-betameth Diprop",
+   "price": "$185.79 "
+ },
+ {
+   "name": "Scopolamine",
+   "price": "$68.79 "
+ },
+ {
+   "name": "Jantoven",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Calcipotriene",
+   "price": "$65.99 "
+ },
+ {
+   "name": "Saxenda",
+   "price": "$1,458.54 "
+ },
+ {
+   "name": "Ivermectin",
+   "price": "$137.99 "
+ },
+ {
+   "name": "Cabergoline",
+   "price": "$22.00 "
+ },
+ {
+   "name": "Santyl",
+   "price": "$310.79 "
+ },
+ {
+   "name": "Bystolic",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Salsalate",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Itraconazole",
+   "price": "$209.99 "
+ },
+ {
+   "name": "Butorphanol Tartrate",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Salonpas Pain Relieving",
+   "price": "$26.99 "
+ },
+ {
+   "name": "Isotretinoin",
+   "price": "$63.00 "
+ },
+ {
+   "name": "Butalbital-aspirin-caffeine",
+   "price": "$128.99 "
+ },
+ {
+   "name": "Isosorbide Mononitrate Er",
+   "price": "$21.00 "
+ },
+ {
+   "name": "Butalbital-apap-caffeine",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Salicylic Acid Wart Remover",
+   "price": "$46.79 "
+ },
+ {
+   "name": "Isosorbide Mononitrate",
+   "price": "$21.16 "
+ },
+ {
+   "name": "Butalbital-apap-caff-cod",
+   "price": "$82.79 "
+ },
+ {
+   "name": "Rybelsus",
+   "price": "$888.49 "
+ },
+ {
+   "name": "Isosorbide Dinitrate",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Butalbital-acetaminophen",
+   "price": "$63.08 "
+ },
+ {
+   "name": "Roszet",
+   "price": "$249.00 "
+ },
+ {
+   "name": "Irbesartan-hydrochlorothiazide",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Buspirone Hcl",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Rosuvastatin Calcium",
+   "price": "$35.99 "
+ },
+ {
+   "name": "Irbesartan",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Bupropion Hcl Er (xl)",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Ropinirole Hcl Er",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Ipratropium-albuterol",
+   "price": "$29.79 "
+ },
+ {
+   "name": "Bupropion Hcl Er (sr)",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Ropinirole Hcl",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Ipratropium Bromide",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Bupropion Hcl Er (smoking Det)",
+   "price": "$16.79 "
+ },
+ {
+   "name": "Rocklatan",
+   "price": "$366.79 "
+ },
+ {
+   "name": "Intrarosa",
+   "price": "$82.37 "
+ },
+ {
+   "name": "Bupropion Hcl",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Rizatriptan Benzoate",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Interceptor Plus",
+   "price": "$42.51 "
+ },
+ {
+   "name": "Buprenorphine Hcl-naloxone Hcl",
+   "price": "$54.99 "
+ },
+ {
+   "name": "Rivastigmine Tartrate",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Buprenorphine Hcl",
+   "price": "$31.79 "
+ },
+ {
+   "name": "Rivastigmine",
+   "price": "$91.99 "
+ },
+ {
+   "name": "Integra Plus",
+   "price": "$29.05 "
+ },
+ {
+   "name": "Buprenorphine",
+   "price": "$189.99 "
+ },
+ {
+   "name": "Ritalin",
+   "price": "$6.10 "
+ },
+ {
+   "name": "Insulin Glargine-yfgn",
+   "price": "$75.78 "
+ },
+ {
+   "name": "Bumetanide",
+   "price": "$48.79 "
+ },
+ {
+   "name": "Risperidone",
+   "price": "$7.79 "
+ },
+ {
+   "name": "Indomethacin Er",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Budesonide-formoterol Fumarate",
+   "price": "$333.79 "
+ },
+ {
+   "name": "Risperdal",
+   "price": "$7.79 "
+ },
+ {
+   "name": "Indomethacin",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Budesonide",
+   "price": "$65.79 "
+ },
+ {
+   "name": "Risedronate Sodium",
+   "price": "$48.79 "
+ },
+ {
+   "name": "Indapamide",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Bromocriptine Mesylate",
+   "price": "$29.79 "
+ },
+ {
+   "name": "Rimadyl",
+   "price": "$35.10 "
+ },
+ {
+   "name": "Bromfenac Sodium (once-daily)",
+   "price": "$172.99 "
+ },
+ {
+   "name": "Riluzole",
+   "price": "$51.12 "
+ },
+ {
+   "name": "Imvexxy Starter Pack",
+   "price": "$362.50 "
+ },
+ {
+   "name": "Brimonidine Tartrate",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Rifampin",
+   "price": "$23.79 "
+ },
+ {
+   "name": "Imvexxy Maintenance Pack",
+   "price": "$161.08 "
+ },
+ {
+   "name": "Brilinta",
+   "price": "$475.79 "
+ },
+ {
+   "name": "Revolution Plus",
+   "price": "$113.49 "
+ },
+ {
+   "name": "Imitrex",
+   "price": "$14.14 "
+ },
+ {
+   "name": "Breo Ellipta",
+   "price": "$430.99 "
+ },
+ {
+   "name": "Revolution",
+   "price": "$126.99 "
+ },
+ {
+   "name": "Imiquimod",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Revatio",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Imipramine Hcl",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Retin-a",
+   "price": "$29.04 "
+ },
+ {
+   "name": "Imatinib Mesylate",
+   "price": "$130.10 "
+ },
+ {
+   "name": "Boostrix",
+   "price": "$45.79 "
+ },
+ {
+   "name": "Restoril",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Icosapent Ethyl",
+   "price": "$143.99 "
+ },
+ {
+   "name": "Bisoprolol-hydrochlorothiazide",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Restasis",
+   "price": "$321.51 "
+ },
+ {
+   "name": "Ibuprofen",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Bisoprolol Fumarate",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Repaglinide",
+   "price": "$24.99 "
+ },
+ {
+   "name": "Ibandronate Sodium",
+   "price": "$19.79 "
+ },
+ {
+   "name": "Bisacodyl Ec",
+   "price": "$0.02 "
+ },
+ {
+   "name": "Renova",
+   "price": "$282.79 "
+ },
+ {
+   "name": "Hyzaar",
+   "price": "$21.79 "
+ },
+ {
+   "name": "Bimatoprost",
+   "price": "$115.99 "
+ },
+ {
+   "name": "Reno Caps",
+   "price": "$8.79 "
+ },
+ {
+   "name": "Hyoscyamine Sulfate Er",
+   "price": "$57.99 "
+ },
+ {
+   "name": "Bijuva",
+   "price": "$175.95 "
+ },
+ {
+   "name": "Rena-vite Rx",
+   "price": "$5.05 "
+ },
+ {
+   "name": "Hyoscyamine Sulfate",
+   "price": "$5.06 "
+ },
+ {
+   "name": "Bicalutamide",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Remeron",
+   "price": "$31.99 "
+ },
+ {
+   "name": "Hydroxyzine Pamoate",
+   "price": "$5.11 "
+ },
+ {
+   "name": "Beyaz",
+   "price": "$241.79 "
+ },
+ {
+   "name": "Rasagiline Mesylate",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Hydroxyzine Hcl",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Bethanechol Chloride",
+   "price": "$16.08 "
+ },
+ {
+   "name": "Ranolazine Er",
+   "price": "$36.99 "
+ },
+ {
+   "name": "Hydroxyurea",
+   "price": "$25.79 "
+ },
+ {
+   "name": "Betaxolol Hcl",
+   "price": "$93.79 "
+ },
+ {
+   "name": "Ramipril",
+   "price": "$8.79 "
+ },
+ {
+   "name": "Hydroxychloroquine Sulfate",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Betamethasone Valerate",
+   "price": "$24.04 "
+ },
+ {
+   "name": "Ramelteon",
+   "price": "$50.99 "
+ },
+ {
+   "name": "Hydroquinone",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Betamethasone Dipropionate Aug",
+   "price": "$52.99 "
+ },
+ {
+   "name": "Raloxifene Hcl",
+   "price": "$28.99 "
+ },
+ {
+   "name": "Hydromorphone Hcl",
+   "price": "$11.00 "
+ },
+ {
+   "name": "Betamethasone Dipropionate",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Rabeprazole Sodium",
+   "price": "$22.99 "
+ },
+ {
+   "name": "Hydrocortisone-iodoquinol",
+   "price": "$71.07 "
+ },
+ {
+   "name": "Besivance",
+   "price": "$222.99 "
+ },
+ {
+   "name": "Qvar Redihaler",
+   "price": "$129.09 "
+ },
+ {
+   "name": "Hydrocortisone-acetic Acid",
+   "price": "$82.79 "
+ },
+ {
+   "name": "Benztropine Mesylate",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Quinine Sulfate",
+   "price": "$98.99 "
+ },
+ {
+   "name": "Hydrocortisone Valerate",
+   "price": "$52.79 "
+ },
+ {
+   "name": "Benzphetamine Hcl",
+   "price": "$38.79 "
+ },
+ {
+   "name": "Quinapril-hydrochlorothiazide",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Hydrocortisone Butyrate",
+   "price": "$52.05 "
+ },
+ {
+   "name": "Benzoyl Peroxide-erythromycin",
+   "price": "$109.04 "
+ },
+ {
+   "name": "Quinapril Hcl",
+   "price": "$22.01 "
+ },
+ {
+   "name": "Hydrocortisone Acetate",
+   "price": "$32.99 "
+ },
+ {
+   "name": "Benzoyl Peroxide Wash",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Quetiapine Fumarate Er",
+   "price": "$29.79 "
+ },
+ {
+   "name": "Hydrocortisone",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Benzoyl Peroxide",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Quetiapine Fumarate",
+   "price": "$8.79 "
+ },
+ {
+   "name": "Hydrocort-pramoxine (perianal)",
+   "price": "$127.99 "
+ },
+ {
+   "name": "Benzonatate",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Qsymia",
+   "price": "$209.79 "
+ },
+ {
+   "name": "Hydrocodone-acetaminophen",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Benicar Hct",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Qbrexza",
+   "price": "$643.20 "
+ },
+ {
+   "name": "Hydrocodone Bit-homatrop Mbr",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Benicar",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Pyridostigmine Bromide Er",
+   "price": "$75.79 "
+ },
+ {
+   "name": "Hydrocod Polst-cpm Polst Er",
+   "price": "$6.01 "
+ },
+ {
+   "name": "Benazepril-hydrochlorothiazide",
+   "price": "$16.79 "
+ },
+ {
+   "name": "Pyridostigmine Bromide",
+   "price": "$35.79 "
+ },
+ {
+   "name": "Hydrochlorothiazide",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Benazepril Hcl",
+   "price": "$9.00 "
+ },
+ {
+   "name": "Hydralazine Hcl",
+   "price": "$5.07 "
+ },
+ {
+   "name": "Prozac",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Humulin N",
+   "price": "$154.99 "
+ },
+ {
+   "name": "Bd Posiflush",
+   "price": "$45.79 "
+ },
+ {
+   "name": "Provigil",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Humalog Kwikpen",
+   "price": "$528.28 "
+ },
+ {
+   "name": "Bd Insulin Syringe U/f",
+   "price": "$32.79 "
+ },
+ {
+   "name": "Protopic",
+   "price": "$131.99 "
+ },
+ {
+   "name": "Humalog",
+   "price": "$273.60 "
+ },
+ {
+   "name": "Protonix",
+   "price": "$14.14 "
+ },
+ {
+   "name": "Hemax",
+   "price": "$13.79 "
+ },
+ {
+   "name": "Basaglar Kwikpen",
+   "price": "$379.99 "
+ },
+ {
+   "name": "Proscar",
+   "price": "$14.14 "
+ },
+ {
+   "name": "Heather",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Baraclude",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Propranolol Hcl Er",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Balsalazide Disodium",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Propranolol Hcl",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Baclofen",
+   "price": "$92.79 "
+ },
+ {
+   "name": "Propecia",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Havrix",
+   "price": "$77.99 "
+ },
+ {
+   "name": "Bacitracin-polymyxin B",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Propafenone Hcl Er",
+   "price": "$182.79 "
+ },
+ {
+   "name": "Haloperidol Lactate",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Bacitra-neomycin-polymyxin-hc",
+   "price": "$16.79 "
+ },
+ {
+   "name": "Propafenone Hcl",
+   "price": "$31.79 "
+ },
+ {
+   "name": "Haloperidol",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Azopt",
+   "price": "$358.95 "
+ },
+ {
+   "name": "Prometrium",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Halobetasol Propionate",
+   "price": "$69.79 "
+ },
+ {
+   "name": "Azithromycin",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Promethegan",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Hailey Fe 1/20",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Azelex",
+   "price": "$721.61 "
+ },
+ {
+   "name": "Promethazine Vc/codeine",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Hailey 1.5/30",
+   "price": "$42.79 "
+ },
+ {
+   "name": "Azelastine-fluticasone",
+   "price": "$165.00 "
+ },
+ {
+   "name": "Promethazine Hcl",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Guanfacine Hcl Er",
+   "price": "$25.79 "
+ },
+ {
+   "name": "Azelastine Hcl",
+   "price": "$14.99 "
+ },
+ {
+   "name": "Guanfacine Hcl",
+   "price": "$25.02 "
+ },
+ {
+   "name": "Azelaic Acid",
+   "price": "$56.99 "
+ },
+ {
+   "name": "Guaiatussin Ac",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Azathioprine",
+   "price": "$9.79 "
+ },
+ {
+   "name": "Progesterone",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Golytely",
+   "price": "$25.79 "
+ },
+ {
+   "name": "Avodart",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Procto-med Hc",
+   "price": "$24.07 "
+ },
+ {
+   "name": "Glyxambi",
+   "price": "$403.35 "
+ },
+ {
+   "name": "Avapro",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Prochlorperazine Maleate",
+   "price": "$13.02 "
+ },
+ {
+   "name": "Glydo",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Atropine Sulfate",
+   "price": "$48.46 "
+ },
+ {
+   "name": "Probenecid",
+   "price": "$189.79 "
+ },
+ {
+   "name": "Glycopyrrolate",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Atovaquone-proguanil Hcl",
+   "price": "$101.79 "
+ },
+ {
+   "name": "Proair Respiclick",
+   "price": "$32.89 "
+ },
+ {
+   "name": "Glyburide-metformin",
+   "price": "$9.00 "
+ },
+ {
+   "name": "Atorvastatin Calcium",
+   "price": "$16.00 "
+ },
+ {
+   "name": "Proair Hfa",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Glyburide Micronized",
+   "price": "$12.79 "
+ },
+ {
+   "name": "Proair Digihaler",
+   "price": "$138.40 "
+ },
+ {
+   "name": "Glyburide",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Pristiq",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Glucotrol Xl",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Atomoxetine Hcl",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Primidone",
+   "price": "$10.11 "
+ },
+ {
+   "name": "Glipizide-metformin Hcl",
+   "price": "$36.99 "
+ },
+ {
+   "name": "Ativan",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Prevnar 20",
+   "price": "$258.99 "
+ },
+ {
+   "name": "Glipizide Er",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Atenolol-chlorthalidone",
+   "price": "$32.99 "
+ },
+ {
+   "name": "Prevnar 13",
+   "price": "$242.99 "
+ },
+ {
+   "name": "Glipizide",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Atenolol",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Prevident 5000 Sensitive",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Glimepiride",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Aspirin Ec",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Prevident 5000 Plus",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Gleevec",
+   "price": "$130.10 "
+ },
+ {
+   "name": "Asmanex Hfa",
+   "price": "$199.93 "
+ },
+ {
+   "name": "Prevident 5000 Enamel Protect",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Gentamicin Sulfate",
+   "price": "$24.99 "
+ },
+ {
+   "name": "Ascomp-codeine",
+   "price": "$73.09 "
+ },
+ {
+   "name": "Prevident 5000 Dry Mouth",
+   "price": "$22.79 "
+ },
+ {
+   "name": "Gemmily",
+   "price": "$88.79 "
+ },
+ {
+   "name": "Arthrotec",
+   "price": "$56.99 "
+ },
+ {
+   "name": "Prevident 5000 Booster Plus",
+   "price": "$18.05 "
+ },
+ {
+   "name": "Gemfibrozil",
+   "price": "$23.79 "
+ },
+ {
+   "name": "Arnuity Ellipta",
+   "price": "$198.05 "
+ },
+ {
+   "name": "Prevident",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Gavilyte-g",
+   "price": "$25.79 "
+ },
+ {
+   "name": "Armour Thyroid",
+   "price": "$75.99 "
+ },
+ {
+   "name": "Gatifloxacin",
+   "price": "$48.99 "
+ },
+ {
+   "name": "Armonair Digihaler",
+   "price": "$224.92 "
+ },
+ {
+   "name": "Prempro",
+   "price": "$242.05 "
+ },
+ {
+   "name": "Gardasil 9",
+   "price": "$258.99 "
+ },
+ {
+   "name": "Armodafinil",
+   "price": "$21.99 "
+ },
+ {
+   "name": "Premarin",
+   "price": "$215.79 "
+ },
+ {
+   "name": "Galliprant",
+   "price": "$40.79 "
+ },
+ {
+   "name": "Aripiprazole",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Pregnyl",
+   "price": "$128.99 "
+ },
+ {
+   "name": "Galantamine Hydrobromide Er",
+   "price": "$46.79 "
+ },
+ {
+   "name": "Arimidex",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Pregabalin",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Galantamine Hydrobromide",
+   "price": "$78.79 "
+ },
+ {
+   "name": "Aricept",
+   "price": "$7.79 "
+ },
+ {
+   "name": "Gabapentin",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Arformoterol Tartrate",
+   "price": "$253.99 "
+ },
+ {
+   "name": "Prednisone",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Furosemide",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Arava",
+   "price": "$53.79 "
+ },
+ {
+   "name": "Prednisolone Sodium Phosphate",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Freestyle Libre 3 Sensor",
+   "price": "$65.43 "
+ },
+ {
+   "name": "Aranesp (albumin Free)",
+   "price": "$770.90 "
+ },
+ {
+   "name": "Prednisolone Acetate",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Freestyle Libre 2 Sensor",
+   "price": "$65.43 "
+ },
+ {
+   "name": "Aranelle",
+   "price": "$54.79 "
+ },
+ {
+   "name": "Prednisolone",
+   "price": "$20.99 "
+ },
+ {
+   "name": "Freestyle Libre 2 Reader",
+   "price": "$71.49 "
+ },
+ {
+   "name": "Aqueous Vitamin D",
+   "price": "$5.09 "
+ },
+ {
+   "name": "Prazosin Hcl",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Freestyle Lancets",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Aprepitant",
+   "price": "$100.79 "
+ },
+ {
+   "name": "Pravastatin Sodium",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Fosrenol",
+   "price": "$67.13 "
+ },
+ {
+   "name": "Apraclonidine Hcl",
+   "price": "$44.99 "
+ },
+ {
+   "name": "Prasugrel Hcl",
+   "price": "$21.79 "
+ },
+ {
+   "name": "Fosinopril Sodium",
+   "price": "$16.79 "
+ },
+ {
+   "name": "Apoquel",
+   "price": "$79.50 "
+ },
+ {
+   "name": "Pramoxine Hcl (perianal)",
+   "price": "$47.99 "
+ },
+ {
+   "name": "Fosfomycin Tromethamine",
+   "price": "$75.79 "
+ },
+ {
+   "name": "Anusol-hc",
+   "price": "$32.99 "
+ },
+ {
+   "name": "Pramipexole Dihydrochloride",
+   "price": "$15.79 "
+ },
+ {
+   "name": "Fosamax",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Anucort-hc",
+   "price": "$32.99 "
+ },
+ {
+   "name": "Praluent",
+   "price": "$426.29 "
+ },
+ {
+   "name": "Folplex 2.2",
+   "price": "$36.79 "
+ },
+ {
+   "name": "Annovera",
+   "price": "$2,185.72 "
+ },
+ {
+   "name": "Pradaxa",
+   "price": "$379.94 "
+ },
+ {
+   "name": "Folic Acid",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Potassium Citrate Er",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Folbee Plus",
+   "price": "$30.79 "
+ },
+ {
+   "name": "Anastrozole",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Potassium Chloride Er",
+   "price": "$18.79 "
+ },
+ {
+   "name": "Folbee",
+   "price": "$30.10 "
+ },
+ {
+   "name": "Anagrelide Hcl",
+   "price": "$123.99 "
+ },
+ {
+   "name": "Potassium Chloride Crys Er",
+   "price": "$17.99 "
+ },
+ {
+   "name": "Fluvoxamine Maleate Er",
+   "price": "$164.99 "
+ },
+ {
+   "name": "Amzeeq",
+   "price": "$395.76 "
+ },
+ {
+   "name": "Posaconazole",
+   "price": "$411.99 "
+ },
+ {
+   "name": "Fluvoxamine Maleate",
+   "price": "$38.99 "
+ },
+ {
+   "name": "Amphetamine-dextroamphetamine",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Portia-28",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Fluticasone-salmeterol",
+   "price": "$110.99 "
+ },
+ {
+   "name": "Amphetamine-dextroamphet Er",
+   "price": "$35.99 "
+ },
+ {
+   "name": "Polymyxin B-trimethoprim",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Fluticasone Propionate",
+   "price": "$20.99 "
+ },
+ {
+   "name": "Amphetamine Sulfate",
+   "price": "$88.99 "
+ },
+ {
+   "name": "Poly-iron 150 Forte",
+   "price": "$16.79 "
+ },
+ {
+   "name": "Flurbiprofen Sodium",
+   "price": "$48.79 "
+ },
+ {
+   "name": "Amoxicillin-pot Clavulanate",
+   "price": "$16.99 "
+ },
+ {
+   "name": "Pogo Automatic Test Cartridges",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Flurbiprofen",
+   "price": "$24.79 "
+ },
+ {
+   "name": "Amoxicillin",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Pogo Automatic Blood Glucose",
+   "price": "$46.79 "
+ },
+ {
+   "name": "Fluphenazine Hcl",
+   "price": "$28.79 "
+ },
+ {
+   "name": "Ammonium Lactate",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Podofilox",
+   "price": "$57.79 "
+ },
+ {
+   "name": "Fluoxetine Hcl",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Amlodipine-olmesartan",
+   "price": "$37.13 "
+ },
+ {
+   "name": "Pneumovax 23",
+   "price": "$116.99 "
+ },
+ {
+   "name": "Fluorouracil",
+   "price": "$92.40 "
+ },
+ {
+   "name": "Amlodipine-atorvastatin",
+   "price": "$49.99 "
+ },
+ {
+   "name": "Plenvu",
+   "price": "$93.99 "
+ },
+ {
+   "name": "Fluocinonide",
+   "price": "$76.99 "
+ },
+ {
+   "name": "Amlodipine Besylate-valsartan",
+   "price": "$54.79 "
+ },
+ {
+   "name": "Plavix",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Fluocinolone Acetonide Scalp",
+   "price": "$45.79 "
+ },
+ {
+   "name": "Amlodipine Besylate",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Piroxicam",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Fluocinolone Acetonide Body",
+   "price": "$49.79 "
+ },
+ {
+   "name": "Amlodipine Besy-benazepril Hcl",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Pioglitazone Hcl-metformin Hcl",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Fluocinolone Acetonide",
+   "price": "$48.79 "
+ },
+ {
+   "name": "Amitriptyline Hcl",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Pioglitazone Hcl",
+   "price": "$16.79 "
+ },
+ {
+   "name": "Fludrocortisone Acetate",
+   "price": "$49.99 "
+ },
+ {
+   "name": "Amitiza",
+   "price": "$369.99 "
+ },
+ {
+   "name": "Pindolol",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Fluconazole",
+   "price": "$41.99 "
+ },
+ {
+   "name": "Amiodarone Hcl",
+   "price": "$40.79 "
+ },
+ {
+   "name": "Pimecrolimus",
+   "price": "$379.99 "
+ },
+ {
+   "name": "Flucelvax Quadrivalent",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Aminocaproic Acid",
+   "price": "$127.99 "
+ },
+ {
+   "name": "Pilocarpine Hcl",
+   "price": "$101.99 "
+ },
+ {
+   "name": "Fluarix Quadrivalent",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Ambien Cr",
+   "price": "$10.79 "
+ },
+ {
+   "name": "Phexxi",
+   "price": "$340.99 "
+ },
+ {
+   "name": "Fluad Quadrivalent",
+   "price": "$49.99 "
+ },
+ {
+   "name": "Ambien",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Phenytoin",
+   "price": "$48.99 "
+ },
+ {
+   "name": "Flovent Hfa",
+   "price": "$223.79 "
+ },
+ {
+   "name": "Amantadine Hcl",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Phentermine Hcl",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Flomax",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Alyacen 1/35",
+   "price": "$29.13 "
+ },
+ {
+   "name": "Phenobarbital",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Flecainide Acetate",
+   "price": "$42.99 "
+ },
+ {
+   "name": "Alprazolam Xr",
+   "price": "$13.02 "
+ },
+ {
+   "name": "Phendimetrazine Tartrate",
+   "price": "$28.99 "
+ },
+ {
+   "name": "First-omeprazole",
+   "price": "$134.46 "
+ },
+ {
+   "name": "Alprazolam",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Phenazopyridine Hcl",
+   "price": "$14.99 "
+ },
+ {
+   "name": "First-mouthwash Blm",
+   "price": "$94.62 "
+ },
+ {
+   "name": "Alphagan P",
+   "price": "$14.79 "
+ },
+ {
+   "name": "Perphenazine",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Finasteride",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Alosetron Hcl",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Permethrin",
+   "price": "$18.99 "
+ },
+ {
+   "name": "Fiasp Flextouch",
+   "price": "$556.60 "
+ },
+ {
+   "name": "Almotriptan Malate",
+   "price": "$271.99 "
+ },
+ {
+   "name": "Perindopril Erbumine",
+   "price": "$79.79 "
+ },
+ {
+   "name": "Fiasp",
+   "price": "$288.20 "
+ },
+ {
+   "name": "Allopurinol",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Peridex",
+   "price": "$6.99 "
+ },
+ {
+   "name": "Ferrous Sulfate",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Allegra-d Allergy & Congestion",
+   "price": "$31.01 "
+ },
+ {
+   "name": "Ferrocite",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Alfuzosin Hcl Er",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Pentoxifylline Er",
+   "price": "$30.99 "
+ },
+ {
+   "name": "Ferrex 150",
+   "price": "$9.11 "
+ },
+ {
+   "name": "Alendronate Sodium",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Peg-3350/electrolytes/ascorbat",
+   "price": "$93.99 "
+ },
+ {
+   "name": "Ferralet 90",
+   "price": "$201.22 "
+ },
+ {
+   "name": "Aldactone",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Peg 3350-kcl-na Bicarb-nacl",
+   "price": "$41.99 "
+ },
+ {
+   "name": "Ferosul",
+   "price": "$0.51 "
+ },
+ {
+   "name": "Alclometasone Dipropionate",
+   "price": "$23.99 "
+ },
+ {
+   "name": "Pb-hyoscy-atropine-scopolamine",
+   "price": "$121.99 "
+ },
+ {
+   "name": "Fentanyl",
+   "price": "$106.01 "
+ },
+ {
+   "name": "Albuterol Sulfate Hfa",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Paroxetine Hcl Er",
+   "price": "$40.99 "
+ },
+ {
+   "name": "Fenofibric Acid",
+   "price": "$31.10 "
+ },
+ {
+   "name": "Albuterol Sulfate",
+   "price": "$34.99 "
+ },
+ {
+   "name": "Paroxetine Hcl",
+   "price": "$6.79 "
+ },
+ {
+   "name": "Fenofibrate Micronized",
+   "price": "$17.08 "
+ },
+ {
+   "name": "Albendazole",
+   "price": "$60.99 "
+ },
+ {
+   "name": "Paricalcitol",
+   "price": "$43.79 "
+ },
+ {
+   "name": "Fenofibrate",
+   "price": "$10.99 "
+ },
+ {
+   "name": "Ajovy",
+   "price": "$509.84 "
+ },
+ {
+   "name": "Pantoprazole Sodium",
+   "price": "$14.14 "
+ },
+ {
+   "name": "Felodipine Er",
+   "price": "$31.99 "
+ },
+ {
+   "name": "Airduo Digihaler",
+   "price": "$375.13 "
+ },
+ {
+   "name": "Aimovig",
+   "price": "$693.99 "
+ },
+ {
+   "name": "Paliperidone Er",
+   "price": "$229.79 "
+ },
+ {
+   "name": "Febuxostat",
+   "price": "$94.99 "
+ },
+ {
+   "name": "Afluria Quadrivalent",
+   "price": "$19.99 "
+ },
+ {
+   "name": "Ozempic (0.25 Or 0.5 Mg/dose)",
+   "price": "$1,005.47 "
+ },
+ {
+   "name": "Farxiga",
+   "price": "$650.99 "
+ },
+ {
+   "name": "Aemcolo",
+   "price": "$175.66 "
+ },
+ {
+   "name": "Oxycodone-acetaminophen",
+   "price": "$40.99 "
+ },
+ {
+   "name": "Famotidine",
+   "price": "$2.39 "
+ },
+ {
+   "name": "Oxycodone Hcl",
+   "price": "$11.06 "
+ },
+ {
+   "name": "Famciclovir",
+   "price": "$43.99 "
+ },
+ {
+   "name": "Oxybutynin Chloride Er",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Falmina",
+   "price": "$5.04 "
+ },
+ {
+   "name": "Advair Hfa",
+   "price": "$325.79 "
+ },
+ {
+   "name": "Oxybutynin Chloride",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Ezetimibe-simvastatin",
+   "price": "$80.79 "
+ },
+ {
+   "name": "Advair Diskus",
+   "price": "$110.99 "
+ },
+ {
+   "name": "Oxcarbazepine",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Ezetimibe",
+   "price": "$15.99 "
+ },
+ {
+   "name": "Adipex-p",
+   "price": "$13.99 "
+ },
+ {
+   "name": "Oxazepam",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Exemestane",
+   "price": "$51.99 "
+ },
+ {
+   "name": "Oxaprozin",
+   "price": "$67.99 "
+ },
+ {
+   "name": "Exelon",
+   "price": "$91.99 "
+ },
+ {
+   "name": "Adderall Xr",
+   "price": "$35.99 "
+ },
+ {
+   "name": "Oxandrolone",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Euflexxa",
+   "price": "$496.40 "
+ },
+ {
+   "name": "Adderall",
+   "price": "$12.99 "
+ },
+ {
+   "name": "Ovidrel",
+   "price": "$209.79 "
+ },
+ {
+   "name": "Etonogestrel-ethinyl Estradiol",
+   "price": "$321.79 "
+ },
+ {
+   "name": "Adapalene-benzoyl Peroxide",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Osphena",
+   "price": "$67.14 "
+ },
+ {
+   "name": "Etodolac",
+   "price": "$15.04 "
+ },
+ {
+   "name": "Adapalene",
+   "price": "$46.99 "
+ },
+ {
+   "name": "Oseltamivir Phosphate",
+   "price": "$61.79 "
+ },
+ {
+   "name": "Ethacrynic Acid",
+   "price": "$9.99 "
+ },
+ {
+   "name": "Adacel",
+   "price": "$55.99 "
+ },
+ {
+   "name": "Orphenadrine Citrate Er",
+   "price": "$17.79 "
+ },
+ {
+   "name": "Eszopiclone",
+   "price": "$11.79 "
+ },
+ {
+   "name": "Aczone",
+   "price": "$189.99 "
+ },
+ {
+   "name": "Estradiol-norethindrone Acet",
+   "price": "$102.79 "
+ },
+ {
+   "name": "Acyclovir",
+   "price": "$19.79 "
+ },
+ {
+   "name": "Onetouch Verio",
+   "price": "$31.10 "
+ },
+ {
+   "name": "Estradiol Valerate",
+   "price": "$115.99 "
+ },
+ {
+   "name": "Acular",
+   "price": "$20.79 "
+ },
+ {
+   "name": "Onetouch Ultra",
+   "price": "$136.79 "
+ },
+ {
+   "name": "Estradiol",
+   "price": "$26.99 "
+ },
+ {
+   "name": "Acitretin",
+   "price": "$153.79 "
+ },
+ {
+   "name": "Onetouch Delica Plus Lancet33g",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Estrace",
+   "price": "$26.99 "
+ },
+ {
+   "name": "Aciphex",
+   "price": "$22.99 "
+ },
+ {
+   "name": "Ondansetron Hcl",
+   "price": "$31.99 "
+ },
+ {
+   "name": "Estazolam",
+   "price": "$38.79 "
+ },
+ {
+   "name": "Acetylcysteine",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Ondansetron",
+   "price": "$5.99 "
+ },
+ {
+   "name": "Est Estrogens-methyltest Hs",
+   "price": "$99.79 "
+ },
+ {
+   "name": "Acetic Acid",
+   "price": "$39.08 "
+ },
+ {
+   "name": "Omnipod Dash Pods (gen 4)",
+   "price": "$264.86 "
+ },
+ {
+   "name": "Esomeprazole Magnesium",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Acetazolamide Er",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Omnipod 5 G6 Pod (gen 5)",
+   "price": "$270.63 "
+ },
+ {
+   "name": "Escitalopram Oxalate",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Acetazolamide",
+   "price": "$8.99 "
+ },
+ {
+   "name": "Omnipod 5 G6 Intro (gen 5)",
+   "price": "$538.67 "
+ },
+ {
+   "name": "Erythromycin",
+   "price": "$40.99 "
+ },
+ {
+   "name": "Acebutolol Hcl",
+   "price": "$131.79 "
+ },
+ {
+   "name": "Omeprazole",
+   "price": "$11.99 "
+ },
+ {
+   "name": "Ergomar",
+   "price": "$1,296.93 "
+ },
+ {
+   "name": "Acarbose",
+   "price": "$22.07 "
+ },
+ {
+   "name": "Omega-3-acid Ethyl Esters",
+   "price": "$28.99 "
+ },
+ {
+   "name": "Eplerenone",
+   "price": "$27.79 "
+ },
+ {
+   "name": "Absorica",
+   "price": "$63.00 "
+ },
+ {
+   "name": "Omega-3 Fish Oil",
+   "price": "$4.99 "
+ },
+ {
+   "name": "Epinephrine",
+   "price": "$362.79 "
+ },
+ {
+   "name": "Abiraterone Acetate",
+   "price": "$169.99 "
+ },
+ {
+   "name": "Olopatadine Hcl",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Epiduo Forte",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Abilify",
+   "price": "$7.99 "
+ },
+ {
+   "name": "Olmesartan-amlodipine-hctz",
+   "price": "$5.79 "
+ },
+ {
+   "name": "Epiduo",
+   "price": "$25.99 "
+ },
+ {
+   "name": "Abacavir Sulfate",
+   "price": "$49.99 "
+ }
+]

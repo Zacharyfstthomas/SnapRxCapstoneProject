@@ -1,0 +1,1644 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "SnapRx REST API Documentation",
+    "version": "1.0.0",
+    "title": "SnapRX REST API Documentation",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "/"
+    }
+  ],
+  "tags": [
+    {
+      "name": "User Resources",
+      "description": "API endpoints to interface with user resources"
+    },
+    {
+      "name": "Medication Resources",
+      "description": "API endpoints to interface with medication resources"
+    }
+  ],
+  "paths": {
+    "/users/signup": {
+      "post": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Account Sign Up",
+        "requestBody": {
+          "description": "Sign Up Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/signupRequest"
+              }
+            }
+          }
+        },
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/signupResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/login": {
+      "post": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Account login",
+        "requestBody": {
+          "description": "Login Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/loginRequest"
+              }
+            }
+          }
+        },
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/loginResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Forbidden.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/{userId}/update-password": {
+      "parameters": [
+        {
+          "name": "userId",
+          "in": "path",
+          "required": true,
+          "description": "ID of the user to access",
+          "type": "integer"
+        }
+      ],
+      "post": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Update user password",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          }
+        ],
+        "requestBody": {
+          "description": "Update Password Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/updatePasswordRequest"
+              }
+            }
+          }
+        },
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/updatePasswordResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Forbidden.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/{userId}": {
+      "parameters": [
+        {
+          "name": "userId",
+          "in": "path",
+          "required": true,
+          "description": "ID of the user to access",
+          "type": "integer"
+        }
+      ],
+      "get": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Get user details",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/getUserDetailsResponse"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Forbidden.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Update user details",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          }
+        ],
+        "requestBody": {
+          "description": "Update User Details Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/putUserDetailsRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/putUserDetailsResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Forbidden.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Delete user",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          }
+        ],
+        "requestBody": {
+          "description": "Delete User Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/deleteUserRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/deleteUserResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Forbidden.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/{userId}/medications": {
+      "get": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Get user's saved medications",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/getUserMedicationsResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/{userId}/medications/{medId}": {
+      "put": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Add saved medication to user",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          },
+          {
+            "name": "medId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the medication to access",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/putUserMedicationResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "User Resources"
+        ],
+        "summary": "Delete saved medication from user",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the user to access",
+            "type": "integer"
+          },
+          {
+            "name": "medId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the medication to access",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/deleteUserMedicationResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "medications/{medId}": {
+      "get": {
+        "tags": [
+          "Medication Resources"
+        ],
+        "summary": "Get medication details",
+        "parameters": [
+          {
+            "name": "medId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the medication to access",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/getMedicationResponse"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Forbidden.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Medication Resources"
+        ],
+        "requestBody": {
+          "description": "Create Medication Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/putMedicationRequest"
+              }
+            }
+          }
+        },
+        "summary": "Create medication",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/putMedicationResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Medication Resources"
+        ],
+        "summary": "Delete medication",
+        "parameters": [
+          {
+            "name": "medId",
+            "in": "path",
+            "required": true,
+            "description": "ID of the medication to access",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/deleteMedicationResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "medications/search": {
+      "post": {
+        "tags": [
+          "Medication Resources"
+        ],
+        "summary": "Search medications",
+        "requestBody": {
+          "description": "Search Medications Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/postSearchMedicationsRequest"
+              }
+            }
+          }
+        },
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/postSearchMedicationsResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "medications/classify-by-image": {
+      "post": {
+        "tags": [
+          "Medication Resources"
+        ],
+        "summary": "Classify medication by image",
+        "requestBody": {
+          "description": "Classify Medication by Image Request object",
+          "required": true,
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "$ref": "#/components/schemas/postClassifyMedicationByImageRequest"
+              }
+            }
+          }
+        },
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/postClassifyMedicationByImageResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "medications/classify-by-description": {
+      "post": {
+        "tags": [
+          "Medication Resources"
+        ],
+        "summary": "Classify medication by physical description",
+        "requestBody": {
+          "description": "Classify Medication by Description Request object",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/postClassifyMedicationByDescriptionRequest"
+              }
+            }
+          }
+        },
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/postClassifyMedicationByDescriptionResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/badRequestResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/statusMessageResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "signupRequest": {
+        "properties": {
+          "email": {
+            "type": "string",
+            "format": "email",
+            "required": true,
+            "description": "New user email"
+          },
+          "password": {
+            "type": "string",
+            "required": true,
+            "description": "New user password"
+          },
+          "firstName": {
+            "type": "string",
+            "required": true,
+            "description": "New user first name"
+          },
+          "lastName": {
+            "type": "string",
+            "required": true,
+            "description": "New user last name"
+          }
+        }
+      },
+      "signupResponse": {
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "required": true,
+            "description": "ID of new user"
+          },
+          "token": {
+            "type": "string",
+            "pattern": "[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
+            "required": true,
+            "description": "Session token"
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "loginRequest": {
+        "properties": {
+          "email": {
+            "type": "string",
+            "format": "email",
+            "required": true,
+            "description": "User email"
+          },
+          "password": {
+            "type": "string",
+            "required": true,
+            "description": "User password"
+          }
+        }
+      },
+      "loginResponse": {
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "required": true,
+            "description": "ID of user"
+          },
+          "token": {
+            "type": "string",
+            "pattern": "[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
+            "required": true,
+            "description": "Session token"
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "updatePasswordRequest": {
+        "properties": {
+          "oldPassword": {
+            "type": "string",
+            "required": true,
+            "description": "Old password"
+          },
+          "newPassword": {
+            "type": "string",
+            "required": true,
+            "description": "New password"
+          }
+        }
+      },
+      "updatePasswordResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "getUserDetailsResponse": {
+        "properties": {
+          "firstName": {
+            "type": "string",
+            "required": true,
+            "description": "User first name"
+          },
+          "lastName": {
+            "type": "string",
+            "required": true,
+            "description": "User last name"
+          },
+          "email": {
+            "type": "string",
+            "format": "email",
+            "required": true,
+            "description": "User email"
+          },
+          "savedMedications": {
+            "type": "array",
+            "required": true,
+            "description": "Array of user's saved medications",
+            "items": {
+              "type": "object",
+              "properties": {
+                "medId": {
+                  "type": "integer",
+                  "required": true,
+                  "description": "ID of medication"
+                },
+                "medName": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication name"
+                },
+                "medDetails": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication details string"
+                },
+                "brandId": {
+                  "type": "integer",
+                  "required": false,
+                  "description": "ID of manufacturing brand"
+                },
+                "price": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Price of medication"
+                },
+                "rxString": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Full prescription string"
+                },
+                "color": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Color of medication"
+                },
+                "imprintBack": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on back of medication"
+                },
+                "imprintFront": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on front of medication"
+                },
+                "shape": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Shape of medication"
+                },
+                "size": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Size of medication"
+                }
+              }
+            }
+          },
+          "uploadedImages": {
+            "type": "array",
+            "required": true,
+            "description": "Array of uploaded image URLs",
+            "items": {
+              "type": "string"
+            }
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      },
+      "putUserDetailsRequest": {
+        "properties": {
+          "firstName": {
+            "type": "string",
+            "required": false,
+            "description": "User updated first name"
+          },
+          "lastName": {
+            "type": "string",
+            "required": false,
+            "description": "User updated last name"
+          },
+          "email": {
+            "type": "string",
+            "format": "email",
+            "required": false,
+            "description": "User updated email"
+          }
+        }
+      },
+      "putUserDetailsResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "deleteUserRequest": {
+        "properties": {
+          "password": {
+            "type": "string",
+            "required": true,
+            "description": "User password"
+          }
+        }
+      },
+      "deleteUserResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "getUserMedicationsResponse": {
+        "properties": {
+          "medications": {
+            "type": "array",
+            "required": true,
+            "description": "Array of user's saved medications",
+            "items": {
+              "type": "object",
+              "properties": {
+                "medId": {
+                  "type": "integer",
+                  "required": true,
+                  "description": "ID of medication"
+                },
+                "medName": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication name"
+                },
+                "medDetails": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication details string"
+                },
+                "brandId": {
+                  "type": "integer",
+                  "required": false,
+                  "description": "ID of manufacturing brand"
+                },
+                "price": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Price of medication"
+                },
+                "rxString": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Full prescription string"
+                },
+                "color": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Color of medication"
+                },
+                "imprintBack": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on back of medication"
+                },
+                "imprintFront": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on front of medication"
+                },
+                "shape": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Shape of medication"
+                },
+                "size": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Size of medication"
+                }
+              }
+            }
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      },
+      "putUserMedicationResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      },
+      "deleteUserMedicationResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      },
+      "getMedicationResponse": {
+        "properties": {
+          "medId": {
+            "type": "integer",
+            "required": true,
+            "description": "ID of medication"
+          },
+          "medName": {
+            "type": "string",
+            "required": true,
+            "description": "Medication name"
+          },
+          "medDetails": {
+            "type": "string",
+            "required": true,
+            "description": "Medication details string"
+          },
+          "brandId": {
+            "type": "integer",
+            "required": false,
+            "description": "ID of manufacturing brand"
+          },
+          "price": {
+            "type": "number",
+            "required": false,
+            "description": "Price of medication"
+          },
+          "rxString": {
+            "type": "string",
+            "required": false,
+            "description": "Full prescription string"
+          },
+          "color": {
+            "type": "string",
+            "required": false,
+            "description": "Color of medication"
+          },
+          "imprintBack": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on back of medication"
+          },
+          "imprintFront": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on front of medication"
+          },
+          "shape": {
+            "type": "string",
+            "required": false,
+            "description": "Shape of medication"
+          },
+          "size": {
+            "type": "number",
+            "required": false,
+            "description": "Size of medication"
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      },
+      "putMedicationRequest": {
+        "properties": {
+          "medName": {
+            "type": "string",
+            "required": true,
+            "description": "Medication name"
+          },
+          "medDetails": {
+            "type": "string",
+            "required": true,
+            "description": "Medication details string"
+          },
+          "brandId": {
+            "type": "integer",
+            "required": false,
+            "description": "ID of manufacturing brand"
+          },
+          "price": {
+            "type": "number",
+            "required": false,
+            "description": "Price of medication"
+          },
+          "rxString": {
+            "type": "string",
+            "required": false,
+            "description": "Full prescription string"
+          },
+          "color": {
+            "type": "string",
+            "required": false,
+            "description": "Color of medication"
+          },
+          "imprintBack": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on back of medication"
+          },
+          "imprintFront": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on front of medication"
+          },
+          "shape": {
+            "type": "string",
+            "required": false,
+            "description": "Shape of medication"
+          },
+          "size": {
+            "type": "number",
+            "required": false,
+            "description": "Size of medication"
+          }
+        }
+      },
+      "putMedicationResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "deleteMedicationResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      },
+      "postSearchMedicationsRequest": {
+        "properties": {
+          "query": {
+            "type": "string",
+            "required": true,
+            "description": "Search query for medication"
+          }
+        }
+      },
+      "postSearchMedicationsResponse": {
+        "properties": {
+          "results": {
+            "type": "array",
+            "required": true,
+            "description": "Array of medication search results",
+            "items": {
+              "type": "object",
+              "properties": {
+                "medId": {
+                  "type": "integer",
+                  "required": true,
+                  "description": "ID of medication"
+                },
+                "medName": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication name"
+                },
+                "medDetails": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication details string"
+                },
+                "brandId": {
+                  "type": "integer",
+                  "required": false,
+                  "description": "ID of manufacturing brand"
+                },
+                "price": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Price of medication"
+                },
+                "rxString": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Full prescription string"
+                },
+                "color": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Color of medication"
+                },
+                "imprintBack": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on back of medication"
+                },
+                "imprintFront": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on front of medication"
+                },
+                "shape": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Shape of medication"
+                },
+                "size": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Size of medication"
+                }
+              }
+            }
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "postClassifyMedicationByImageRequest": {
+        "properties": {
+          "img": {
+            "type": "string",
+            "format": "binary",
+            "required": true,
+            "description": "Uploaded image file data."
+          }
+        }
+      },
+      "postClassifyMedicationByImageResponse": {
+        "properties": {
+          "medId": {
+            "type": "integer",
+            "required": true,
+            "description": "ID of medication"
+          },
+          "medName": {
+            "type": "string",
+            "required": true,
+            "description": "Medication name"
+          },
+          "medDetails": {
+            "type": "string",
+            "required": true,
+            "description": "Medication details string"
+          },
+          "brandId": {
+            "type": "integer",
+            "required": false,
+            "description": "ID of manufacturing brand"
+          },
+          "price": {
+            "type": "number",
+            "required": false,
+            "description": "Price of medication"
+          },
+          "rxString": {
+            "type": "string",
+            "required": false,
+            "description": "Full prescription string"
+          },
+          "color": {
+            "type": "string",
+            "required": false,
+            "description": "Color of medication"
+          },
+          "imprintBack": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on back of medication"
+          },
+          "imprintFront": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on front of medication"
+          },
+          "shape": {
+            "type": "string",
+            "required": false,
+            "description": "Shape of medication"
+          },
+          "size": {
+            "type": "number",
+            "required": false,
+            "description": "Size of medication"
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "postClassifyMedicationByDescriptionRequest": {
+        "properties": {
+          "color": {
+            "type": "string",
+            "enum": [
+              "PINK",
+              "ORANGE",
+              "GREEN",
+              "WHITE",
+              "YELLOW",
+              "BLUE",
+              "RED",
+              "BROWN",
+              "PURPLE",
+              "GRAY",
+              "TURQUOISE",
+              "BLACK"
+            ],
+            "required": false,
+            "description": "Color of medication"
+          },
+          "color2": {
+            "type": "string",
+            "enum": [
+              "PINK",
+              "ORANGE",
+              "GREEN",
+              "WHITE",
+              "YELLOW",
+              "BLUE",
+              "RED",
+              "BROWN",
+              "PURPLE",
+              "GRAY",
+              "TURQUOISE",
+              "BLACK"
+            ],
+            "required": false,
+            "description": "Secondary color of medication"
+          },
+          "imprintBack": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on back of medication"
+          },
+          "imprintFront": {
+            "type": "string",
+            "required": false,
+            "description": "Imprint on front of medication"
+          },
+          "shape": {
+            "type": "string",
+            "enum": [
+              "CAPSULE",
+              "ROUND",
+              "PENTAGON",
+              "OVAL",
+              "RECTANGLE",
+              "DIAMOND",
+              "OCTAGON",
+              "HEXAGON",
+              "BULLET",
+              "SQUARE",
+              "FREEFORM",
+              "TRIANGLE",
+              "SEMI-CIRCLE",
+              "TEAR",
+              "DOUBLE CIRCLE",
+              "TRAPEZOID",
+              "CLOVER"
+            ],
+            "required": false,
+            "description": "Shape of medication"
+          },
+          "size": {
+            "type": "number",
+            "required": false,
+            "description": "Size of medication"
+          }
+        }
+      },
+      "postClassifyMedicationByDescriptionResponse": {
+        "properties": {
+          "results": {
+            "type": "array",
+            "required": true,
+            "description": "Array of classifier results",
+            "items": {
+              "type": "object",
+              "properties": {
+                "medId": {
+                  "type": "integer",
+                  "required": true,
+                  "description": "ID of medication"
+                },
+                "medName": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication name"
+                },
+                "medDetails": {
+                  "type": "string",
+                  "required": true,
+                  "description": "Medication details string"
+                },
+                "brandId": {
+                  "type": "integer",
+                  "required": false,
+                  "description": "ID of manufacturing brand"
+                },
+                "price": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Price of medication"
+                },
+                "rxString": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Full prescription string"
+                },
+                "color": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Color of medication"
+                },
+                "imprintBack": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on back of medication"
+                },
+                "imprintFront": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Imprint on front of medication"
+                },
+                "shape": {
+                  "type": "string",
+                  "required": false,
+                  "description": "Shape of medication"
+                },
+                "size": {
+                  "type": "number",
+                  "required": false,
+                  "description": "Size of medication"
+                }
+              }
+            }
+          },
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          },
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "badRequestResponse": {
+        "properties": {
+          "errors": {
+            "type": "array",
+            "required": false,
+            "description": "Array of errors"
+          }
+        }
+      },
+      "statusMessageResponse": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "required": false,
+            "description": "Status message"
+          }
+        }
+      }
+    }
+  }
+}

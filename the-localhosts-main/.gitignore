@@ -1,0 +1,21 @@
+.idea/
+__pycache__/
+model/data_full/
+model/data_mini/
+model/data/
+model/old/
+
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
